@@ -9,7 +9,7 @@ Looking to make sure your post doesn't fall foul of the community rules and get 
 
 Well, this is your time to shine and shout from the digital rooftops - Welcome to your haven!
 Just a friendly reminder, we do like to keep all our self-promotion in one handy place, so any separate posts will be kindly redirected here. Now, let's get this party started! Enjoy the thread, everyone.",10,2024-03-01 11:02:14
-Scraping Google Search results (on a small scale),"I'm working on a Question Answering system that scrapes the internet for information in real time. It seemed like a pretty simple task, but I'm having trouble with the web-scraping aspect. I'm pretty new to any sort of scraping so I need to get an idea of this - is it a pretty easy task to scrape Google search - like scraping the top 5 links of 10 different search queries? I feel like that's not a huge number, but I'm already having issues and I think they're related to Google blocking bots (basically the scraped links were good at first, and accurate to what was coming up when I searched manually, but then it started returning links only from sites like quora or youtube, which I couldn't get the info I wanted from). Is this something that you need to use an API for or is it pretty easy to work around with some proxy changes and stuff? Is it just Google that's difficult to work around (if it even is, maybe small-scale google search scraping is really basic?) and are other browsers search results easier to scrape?",5,2024-03-12 08:16:31
+Scraping Google Search results (on a small scale),"I'm working on a Question Answering system that scrapes the internet for information in real time. It seemed like a pretty simple task, but I'm having trouble with the web-scraping aspect. I'm pretty new to any sort of scraping so I need to get an idea of this - is it a pretty easy task to scrape Google search - like scraping the top 5 links of 10 different search queries? I feel like that's not a huge number, but I'm already having issues and I think they're related to Google blocking bots (basically the scraped links were good at first, and accurate to what was coming up when I searched manually, but then it started returning links only from sites like quora or youtube, which I couldn't get the info I wanted from). Is this something that you need to use an API for or is it pretty easy to work around with some proxy changes and stuff? Is it just Google that's difficult to work around (if it even is, maybe small-scale google search scraping is really basic?) and are other browsers search results easier to scrape?",3,2024-03-12 08:16:31
 Slow scraper ?,"import asyncio
 import csv
 import logging
@@ -198,7 +198,7 @@ options = uc.ChromeOptions()
         return driver
 
 ​",3,2024-03-10 15:49:28
-How did OpenAI scrap the entire Internet for training Chat GPT?,"Out of curiosity, how did OpenAI *scrape the entire Internet for training ChatGPT?",115,2024-03-09 19:29:18
+How did OpenAI scrap the entire Internet for training Chat GPT?,"Out of curiosity, how did OpenAI *scrape the entire Internet for training ChatGPT?",114,2024-03-09 19:29:18
 Shein Products based on sku list,"Hi guys, anyone knows how can I scrap shein products based on a sku list I have?",1,2024-03-10 11:07:11
 How scrape with the selenium group post?,"hi,
 I tried scrape with selenium group post and I have problem with python code.
@@ -288,7 +288,7 @@ Passing value with Puppeteer to field not working,"I'm trying to pass data to th
 <input id=""kodWydzialuInput"" class=""required"" type=""text"" maxlength=""4"" aria-label=""Lista rozwijana wybierz kod wydziału"" aria-required=""true"" autocomplete=""off"">
 
 I cant find element with getElement(), cant type with focus()+keybord.type() or page.type().",1,2024-03-09 10:00:29
-Could you give me some resources?,"Can you recommend any resources or channels for people new to web scraping? I just wanted some things to consume, like: communities, videos with some tutorials, some good sites for scraping, etc.",6,2024-03-08 17:11:10
+Could you give me some resources?,"Can you recommend any resources or channels for people new to web scraping? I just wanted some things to consume, like: communities, videos with some tutorials, some good sites for scraping, etc.",4,2024-03-08 17:11:10
 Is scrapping the latest tweet from multiple Twitter account is possible?,"I have scrapped twitter few years back. But i heard that since August scrapping X is nearly impossible.
 My use case is that i have bunch if twitter handles and i want to get thier latest tweet. 
 If i can scrape the last tweet asap thats awesome but i don't mind a bit of delay.
@@ -329,7 +329,7 @@ very early stage of development and not very popular
 
 ​
 Happy for any advice. Thanks!",14,2024-03-07 15:42:43
-A Service/Proxy for Bypassing Cloudflare and Captcha stuff,"Do you know any good proxy that works well in bypassing cloudflare and captcha, a paid service, with IP rotation or Residential Proxy or anything that works?",6,2024-03-07 17:26:49
+A Service/Proxy for Bypassing Cloudflare and Captcha stuff,"Do you know any good proxy that works well in bypassing cloudflare and captcha, a paid service, with IP rotation or Residential Proxy or anything that works?",5,2024-03-07 17:26:49
 Paid project put on back burner..,"So admittedly I  have only web scraped a handful of times, I normally pull my data from databases and load them in their desired location. In this situation I had a client reach out that wanted data (current and potential customer) pulled from one CRM and placed somewhere else. This would run nightly updating the newest customers, the best way for me to do this was web scrape via python script. I was able to extract the exact data I needed and was working on the second portion of my process, after reaching out they informed me that ownership had gotten an alert on back end work and they were not happy, and there would be extra charges if this continued. This is now on the back burner till further notice. My question, I read term and services and no where did it mention anything about data scraping or requests...Is it best practice to reach out to the company with your intentions? Is this something that the owners should do or myself? I am just trying to see if this is something I can avoid in the future.",1,2024-03-07 18:58:04
 How to search for a term within a Twitter list?,"I was referring to twitter documentation and it says we need to search on that way to find all tweets from that list:
 list:NASA/astronauts-in-space-now 
@@ -357,7 +357,7 @@ I have a Playwright-python script set up that asynchronously runs several headle
 The issue is, that I want to scale this approach up to get through more URLs faster. My understanding is that the best approach is to parallelize the work across several instances, but I have never attempted this before and am a bit lost on how to proceed.
 ​
 I have access to AWS and all its features for reference. Any starting points would be helpful.
-​",8,2024-03-06 14:57:59
+​",7,2024-03-06 14:57:59
 How to scrape the videos of a private online course?,"Hello recently, i've bought a 2600$ online course, with different modules and videos with my friend, i paid for about 1000 among it and my friend payed the money left. My friend is the only one with the logins.
 And he dont want the staff to know that 2 people bought it, and potentially ban us  for it. 
 We would like to scrape the videos in the course and download it then transfer it to my pc in different folders so i can follow it peacefully, without having to lose a grand invested.
@@ -401,7 +401,7 @@ I use 4g mobile proxy
 Usually Not do more than 200 ip call for account
 Usually scarpe 500 users a Day using different social media and different account and ip....
 I use Nodejs, Playwright and Firebase
-Should i change tò puppeteer stealth ?",8,2024-03-05 09:36:46
+Should i change tò puppeteer stealth ?",9,2024-03-05 09:36:46
 I'm looking to scrape google maps for new service businesses,"I want to scrap google maps for new service based businesses such as tow trucking, landscaping, plumbing, hvac etc. Can anyone lead me in the right direction towards a scraper that does this, so the businesses it scrapes do have to be new. Maybe there is something on github or someone here might have an answer, thank you!",1,2024-03-05 21:01:20
 WebScraping in no GUI environnement,"I’m working on a project for real estate, i started scraping data, started from facebook marketplace, and it was successful.
 I used browser driver, and worked with chrome ( because it is installed on my laptop ).
@@ -443,7 +443,7 @@ Once you've followed everyone in the list scrap new users and delete the duplica
 Best lenguage to create web scraper  100 instagram users Daily?
 Puppeteer stealth extra or playwright?",3,2024-03-04 19:11:03
 Linkedin Automation Bot with every possible scraping! (2024),"Built a LinkedIn scraper for automating connection requests, follow messages, profile visits, post likes, profile endorsements, and more. Find on GitHub
-If you want it hosted on Railway, here's a docker image",4,2024-03-04 09:24:16
+If you want it hosted on Railway, here's a docker image",2,2024-03-04 09:24:16
 "List of links, a pdf within each link","Hi i have a list of links
 and in each link there's a pdf in there that needs to be download  (not a direct link)
 what should i use to do this in batch
@@ -452,7 +452,7 @@ Test exams with the correct answer from a website,"I am wondering if its possibl
 https://lifeintheuktestweb.co.uk/test-2/ 
 There are 24 exams, I need them just to study, copy paste will take me ages. 
 Thanks for your help.",1,2024-03-04 12:21:51
-Need help with building webscraper for job board site,"I hope I can post this. but i need some help to build a webscraper for a job board I have. I used to use automated point and click tools, but the job board I get jobs from obviously has done some retooling and either I get a 404 page when i load the saved job search page in my automated program, or all of the pages are just repeats of the same 100-200 jobs. If i go to the same page on another computer then I see the jobs as they should be listed with the dates going down as the jobs get older. I'm looking for a pretty automated setup if anyone can point me in the right direction. I'm trying to give as much info as I can without getting my post removed. Thanks. BTW the job board is flexjobs",3,2024-03-03 21:36:21
+Need help with building webscraper for job board site,"I hope I can post this. but i need some help to build a webscraper for a job board I have. I used to use automated point and click tools, but the job board I get jobs from obviously has done some retooling and either I get a 404 page when i load the saved job search page in my automated program, or all of the pages are just repeats of the same 100-200 jobs. If i go to the same page on another computer then I see the jobs as they should be listed with the dates going down as the jobs get older. I'm looking for a pretty automated setup if anyone can point me in the right direction. I'm trying to give as much info as I can without getting my post removed. Thanks. BTW the job board is flexjobs",4,2024-03-03 21:36:21
 "New to webscraping, would appriciate Rstudio help.",Sorry if this is not the correct place to post but I was l wondering if anyone had any knowledge on how to use a proxy service with RStudio?,2,2024-03-04 01:21:37
 What to do when View Page Source does not show the data I want to scrape?,"Hello - I am fairly new to web scraping, but thought it would be fun to try to figure out how to scrape some data from a trading site in a game I'm playing (Elder Scrolls Online).
 For reference I am using the requests module from python to try to scrape search result data from here:https://us.tamrieltradecentre.com/pc/Trade/SearchResult
@@ -522,8 +522,8 @@ it returns
 }
 and I only need the id from this",1,2024-03-02 13:48:31
 Evaluate the maintenance cost of a scrapper in terms of changes in the website source code,What is the way to go if you want to evaluate how often things change on a website you are interested in crawling?,2,2024-03-02 09:11:32
-How much do you make from web scraping?,I'm pretty skilled at web scraping. Can you make living from web scraping?,19,2024-03-01 15:45:36
-Getting detected using all measures,"Hi! So I'm completely lost. I am trying to scrape leboncoin.fr, and I'm using playwright (python) and 200 rotating proxies. I make a new chromium browser for EVERY request, have the correct headers, I'm using playwright_stealth and checked with several bot detection tests. However, I still seem to get detected 98% of the time. Any suggestions?",3,2024-03-01 22:33:15
+How much do you make from web scraping?,I'm pretty skilled at web scraping. Can you make living from web scraping?,21,2024-03-01 15:45:36
+Getting detected using all measures,"Hi! So I'm completely lost. I am trying to scrape leboncoin.fr, and I'm using playwright (python) and 200 rotating proxies. I make a new chromium browser for EVERY request, have the correct headers, I'm using playwright_stealth and checked with several bot detection tests. However, I still seem to get detected 98% of the time. Any suggestions?",4,2024-03-01 22:33:15
 Question on too many requests error: 429,"Hi guys, 
 I'm scraping a website that requires login, and it will return 429 errors (too many requests error) when I scrape for 60 pages consecutively.
 For your info, I am using python library requests to run this scraper synchronously.
@@ -547,7 +547,7 @@ They contacted me again, and this time, it's ~1000. I have some budget, so I can
 But, I realized that I didn't knew about scraping that much. I know selenium, but that's about it. I didn't used things like beautiful soup, etc...
 I always assumed that selenium was the only good solution, because it's running in a web browser, loading the js, and I can click on buttons.
 I tried beautifulsoup and scrapy, and it seems to be the case. I can't click on buttons and interact with the webpage.
-But I am feeling that I might missing something. Am I ?",14,2024-02-29 22:26:30
+But I am feeling that I might missing something. Am I ?",15,2024-02-29 22:26:30
 Scraping reactive content (button click),"Hello,
 I’m attempting to harvest pricing from petco, using python and hrequests.
 I’m running into a problem where the website loads the pricing data via html and a reactive component button alters the price when you select 1 month, 6 month or 12 months of product.
@@ -563,14 +563,14 @@ Gemini calls it a bot, but to me a bot could have more things like a database an
 "Just joined, still a noobie.","Im just an enthusiast, learning all of this in my spare time. Ive probably spent about 300 hours or so now studying c, c++, html, python and such as well as writing my own code.
 My main project is to build an ai capable of scraping charts, and the internet to find patterns and trends. Then having it choose stocks based off of those predictions and executing those trades through my preffered trading platforms api, then selling once they either succeed or fail.
 Scripy and beautiful soup are my preferred tools for making spiders. 
-My ideal plan  is to use them with a set of functions defining the strategy i used myself to make money, as well as a set of deep learning to improve upon that strategy.",8,2024-02-29 18:41:20
+My ideal plan  is to use them with a set of functions defining the strategy i used myself to make money, as well as a set of deep learning to improve upon that strategy.",10,2024-02-29 18:41:20
 Web scraping in excel/google sheets - as a total beginner,"Hello guys, I'm in the e-comm business and recently i'm thinking of more and more automation.
 I generate 50-60 tracking numbers daily and they contain name, phone number, tracking number and product. I would like all this data to go into an excel/google sheets automatically.
 I have no experience in coding ( besides a little bit of HTML, CSS and JS ) and it's my second day of thinking about this ideea.
-Would this be hard to do ? What tools should i use ?",13,2024-02-29 14:03:58
+Would this be hard to do ? What tools should i use ?",12,2024-02-29 14:03:58
 best way to go around nginx rate limits?,"I am scraping a website from which I know is using nginx and rate limits each IP addresses to 2MB, at the moment proxies are a little scarce, what I love about this site is it does not block your IP, there's just a speed limit, how can I go around this?",1,2024-02-29 16:21:02
 Built A LinkedIn Scraper,"LinkedIn scraper that scrapes specific profiles or scrapes multiple profiles based on a keyword.
-Check it out scraper",8,2024-02-29 04:25:55
+Check it out scraper",6,2024-02-29 04:25:55
 Facebook Post liker list scraper,"Hi guys, I'm on a project crawling a Facebook post's liker list data.
 I've been using the mobile web version and it was fine the whole last year. But recently, Facebook is getting tough and blocks my account. I don't crawl like crazy, maybe around 1k liker per 30 minutes with a residential proxy. 
 Anyone knows a more solid solution to this? Thanks",1,2024-02-29 03:31:06
@@ -586,7 +586,7 @@ Thanks in advance.
 (Notes: I know some website like quotes.toscrape.com and httpbin but they're not blocking me if keep scraping with same IP or account login)",1,2024-02-29 01:00:38
 Advanced Web Scraping With Python: Extract Data From Any Site,"Learn how to manage cookies and custom headers, avoid TLS fingerprinting, recognize important HTTP headers, and implement exponential-backoff request retrying in Python!
 ​
-https://jacobpadilla.com/articles/advanced-web-scraping-techniques",20,2024-02-28 00:34:07
+https://jacobpadilla.com/articles/advanced-web-scraping-techniques",19,2024-02-28 00:34:07
 Manual email alias list,"I've started webscraping with one specific site, for which I needed a ton of mail accounts. Since this was one of the hardest parts and I didn't and still don't have much experience I opted to create mails manually using different services. Here are my experiences.
 
 
@@ -738,7 +738,7 @@ What is the reality?
 ​
 ​
 ​
-​",58,2024-02-26 23:15:57
+​",59,2024-02-26 23:15:57
 "How to handle intermittent clicking behavior in Selenium where sometimes the click works and sometimes it doesn't, without throwing any errors indicating that the element to click is not found?","from selenium import webdriver
 from bs4 import BeautifulSoup
 import time
@@ -989,9 +989,9 @@ Automating Browser processes in background,"Hello I’m trying to build a web ap
 Say for example a user enters a product name and submits, this should kick off a background process that opens a bunch of websites and searches for the product, finds and pre-order the product.
 Since it’s a web app, I need this to be able to run efficiently without slowing down the server.
 What’s the best way to proceed with this task and what tool could be able to do this at scale",2,2024-02-25 09:43:40
-I have a job that I could easily automate completely with web scraping LinkedIn,"Hi all, I have a freelance job that makes me find specific profiles of people from a list of companies they give me. If I could make a simple webscraper that simply takes all of the employees and a description of their role from a company's linkedin profile I would be able to completely automate my work. I would have to do only 100 or so requests per week. I've tried on my own but LinkedIn's anti scraping tools are too good for me. Do any of you know of any tool online I can pay for to do this for me? Any help appreciated. Its frustrating because it would be such a simple and stupid scraping I would need to do to just automate everything.",3,2024-02-25 03:33:48
+I have a job that I could easily automate completely with web scraping LinkedIn,"Hi all, I have a freelance job that makes me find specific profiles of people from a list of companies they give me. If I could make a simple webscraper that simply takes all of the employees and a description of their role from a company's linkedin profile I would be able to completely automate my work. I would have to do only 100 or so requests per week. I've tried on my own but LinkedIn's anti scraping tools are too good for me. Do any of you know of any tool online I can pay for to do this for me? Any help appreciated. Its frustrating because it would be such a simple and stupid scraping I would need to do to just automate everything.",4,2024-02-25 03:33:48
 Faster than Python?,"I had a webscraper tool built in python & puppetmaster but it is slowwwww. What would be the better option?
-Edit: I am creating 100s of PDFs with a product page & a checkout page showing that an item will deliver to a specific location",8,2024-02-24 23:26:27
+Edit: I am creating 100s of PDFs with a product page & a checkout page showing that an item will deliver to a specific location",7,2024-02-24 23:26:27
 Scraping Wowpedia,"I am trying to scrape several galleries on Wowpedia for my own archives (mainly art from the Warcraft TCG) but my traditional methods of using python and bs4 are not working, yet this seems to work on other Fandom style sites. WFDownloader does not seem to work either.
 Could anyone provide any help and the proper way to scrape? The closest I've gotten is just getting the thumbnails.",2,2024-02-25 00:26:05
 Amazon web scraping,"I want to Write python code to scrape amazon data from search results, python code should read each url of search result and scrape the following contents
@@ -1049,13 +1049,13 @@ It has a simple captcha that was easy to crack with some binarization and denois
 The problem is that there’s an upward amount of 12+ million PDF’s on the site alone which as you all can obviously guess takes a lot of storage to hold all that. 
 Anyone have any general advice on what you’d do in this situation?
 Website is attached below:
-https://judgments.ecourts.gov.in/",10,2024-02-24 02:10:59
+https://judgments.ecourts.gov.in/",11,2024-02-24 02:10:59
 Puppeteer supremacy?,"Hello I just wanted to get your guys' opinions on which if puppeteer is the end all of browser automation. From what I've read puppeteer seems to mimic the browser the best, even loading tiktok livestreams which selenium and playwright are unable to do. That is not even including pupetteer extra and stealth plugin. I guess the only wonder is if I can prevent RTC leak on pupetteer as I was unable to do that with selenium and playwright. But it seems like at least from what i've read is that puppeteer runs the game and selenium and playwright are just mistakes who need to be erased from existence.",0,2024-02-24 07:23:10
 Need Advice for a Large-scale Web Scraping Project: VPNs vs. Proxies,"Hi everyone,
 I'm embarking on a substantial web scraping project and could use some guidance. I'm targeting a website with around 4 million product pages, available in two languages, which brings the total to about 8 million pages. The silver lining is that these pages can be accessed via .json links, offering a way to minimize traffic impact. The site is protected by Cloudflare, but I've managed to bypass this using VPN provider so far.
 In my tests, I've successfully run 5 Docker containers concurrently under a single VPN account, each using different IPs. However, this is just the start. I plan to scale my operations to scrape up to 100 million pages. This scaling brings me to a crossroads: should I invest in 3-4 VPN accounts, or would proxies be a better route? I've never used proxies before, so I'm particularly interested in insights about their effectiveness, cost, and how they might compare to using multiple VPN accounts for a project of this scale.
 Any advice, experiences, or tips you can share would be incredibly valuable, especially regarding handling large-scale scraping projects, managing IP rotation, and staying under the radar of protections like Cloudflare.
-Thanks in advance for your help!",8,2024-02-22 16:51:03
+Thanks in advance for your help!",7,2024-02-22 16:51:03
 Looking for iMacros add-on alternative for Google Chrome's browser since in June 2024 they will update to manifest 3.0 and iMacros is with manifest 2.0 is no longer supported to be updated?,"Hello,
 I'm currently using iMacros add-on for my Google Chrome browser which works fine for the latest version of it. I have some automations recordings I have with it, and it's very fast and light, compared to using something like chromedriver watir automations. And I like that you don't need any special mode of the browser to run it.
 I read that Google plan in June 2024 to update their browser to require manifest 3.0 which means many browser add-ons will stop working unless the add-ons are updated to manifest 3.0, and iMacros is end of life and no longer supported.
@@ -1064,7 +1064,7 @@ Any ideas or alternatives?
 Thank you.",0,2024-02-22 16:56:50
 Best way to scrape truepeoplesearch without getting blocked,I am using python selenium to scrape through truepeoplesearch.com and also using proxies from anyip.io but still getting detected and cloudflare check pops up after some requests,1,2024-02-22 16:05:31
 Cant accept Cookies,"Selenium cant find „accept“-Button
-I cant accept Cookies on immoscout24 via a Click() with Selenium uc. My selectors are fine but still get „Bad selector“ error… I tried scroll to view and Click or Switched iframes. Any other ideas?",4,2024-02-22 06:09:19
+I cant accept Cookies on immoscout24 via a Click() with Selenium uc. My selectors are fine but still get „Bad selector“ error… I tried scroll to view and Click or Switched iframes. Any other ideas?",5,2024-02-22 06:09:19
 Making a fetch request to Google search URL,"Hi all! 👋
 I’m trying to deploy a very simple Express.js API that, given a few query parameters, constructs a Google search query and performs a simple fetch request on that URL (since Google pages are server side rendered, you can try this by using Postman and sending a GET to any query url). This works totally fine locally and I’m able to manipulate the returned HTML, but when I deploy this (using fly.io) my request gets blocked by Google and I get a captcha. 
 All I need is the HTML - I do all of the parsing logic using Cheerio and don’t see the need to spin up a headless browser instance (using Puppeteer or Playwright) for this. 
@@ -1102,7 +1102,7 @@ Do you cluster Selectors/classes etc and then build out a general scraping scrip
 Maybe all of that is obsolete now and you just take the html/css/js and give it to an AI to spit out a scraping script(?)",18,2024-02-21 00:36:18
 Need to understand how influencer marketing platforms scrape Instagram,"I'm developing a SaaS platform for Influencer Marketing, but I'm facing challenges with scraping data from Instagram and identifying influencers. Despite creating tools to scrape and store data efficiently, my Instagram account gets suspended quickly, leaving me uncertain about the next steps. 
 However, I've noticed platforms like Modash and InfluencerMarketingAI have vast databases of influencers and offer their data through APIs. Unfortunately, utilizing their APIs is costly for me as I'm operating on a bootstrap budget. Can someone provide guidance on how to proceed? 
-Additionally, these platforms offer insights into influencers' followers, including metrics like fake followers and audience demographics. I aim to create a similar system but need assistance on where to begin.",5,2024-02-21 05:16:37
+Additionally, these platforms offer insights into influencers' followers, including metrics like fake followers and audience demographics. I aim to create a similar system but need assistance on where to begin.",6,2024-02-21 05:16:37
 Scraping College Faculty Pages,"I’ve been reading a lot of history books lately, and sometimes it’s super annoying to find non-pop history books on more niche topics. So I want to scrape ~20 different university History faculty pages for a local database to make it easier to find potential work on Native American history or whatever. 
 A lot of them are just static HTML pages, and I’ve scraped those before but I’d like to avoid it this time if possible. Unfortunately though, when I go into devtools they’re not making any API calls as far as I can tell so I’m sort of at a loss. They all run a bunch of JavaScript files which I think may be executing some queries, but I don’t know the language. Here’s the University of Michigan’s page as an example https://lsa.umich.edu/history/people/faculty.directory.html 
 Is the solve at this point to just suck it up and go through the HTML or learn JavaScript so I can read those files?",3,2024-02-21 07:08:22
@@ -1119,7 +1119,7 @@ I've looked into various approaches, such as using external captcha solving serv
 If anyone has experience or suggestions on how to achieve this integration between Scrapy and human captcha resolution, I would greatly appreciate any insights or pointers you could provide.
 Thanks in advance for your help!",2,2024-02-21 04:17:09
 Any advice on how to take my scraping to the next step,"Recently I have been using programs such as taper monkey and selenium to scrape. I have explored utilising the XHR api key for scraping when available.
-My question really is, how can I learn more technologies as the skills I have now are vulnerable to anti-bot software. Any good books or resources, I have only looked into undetected-chromedriver and proxies but is there anything else I need to know to scrape websites. Currently looking to scrape Vinted if that helps :)",4,2024-02-20 22:30:11
+My question really is, how can I learn more technologies as the skills I have now are vulnerable to anti-bot software. Any good books or resources, I have only looked into undetected-chromedriver and proxies but is there anything else I need to know to scrape websites. Currently looking to scrape Vinted if that helps :)",6,2024-02-20 22:30:11
 Web Scraping by Selenium,"So I am trying to get a text from this website https://dexscreener.com/solana/7bzzop3qb2zk3r7wqrzjs5fpeeergdy3hgzxxrn97aey There is a button that when you click automatically copies the contact address of the cryptocurrency. I use selenium. Why? Because the website has cloudflare antidetection and after a long time I finally found code that can bypass it. So I need code that would be able to navigate to that page and click that button and print the pasted text. copy button
 I only managed to write code for bypassing the cloudflare antibot detection, I tried using chatgpt to write me the code for getting the text but I keep getting errors. I am not that experienced with coding though.
 Here is the code;
@@ -1148,7 +1148,7 @@ Like how is great expectations for data quality but its uses libraries like pand
 Anything like this available?",1,2024-02-20 19:02:24
 What are bots built with?,"so I'm new to web scraping, and I found this list of bots:
 https://radar.cloudflare.com/traffic/verified-bots
-I assume that not every bot has a dedicated team that builds them from scratch, so what kinds of frameworks/stacks do they use? Any place where I can read up on the systems design of people who have first hand experience building these?",5,2024-02-20 04:36:30
+I assume that not every bot has a dedicated team that builds them from scratch, so what kinds of frameworks/stacks do they use? Any place where I can read up on the systems design of people who have first hand experience building these?",4,2024-02-20 04:36:30
 "When i'm Scraping with Scrapy Sometimes i have a 200 and can access, sometimes i have a 403 and can't access","I'm quite new and I'm trying to scrape the website https://fr.ra.co/
 My problem is the following: I succeeded yesterday to have a 200 response with faking user agent, but after some other tries I've been getting 403. The next day (today) the first time I tried it was showing 200, then after some tries it became 403, but then after some retries again 200, and now it says 403 and it looks definitive for at least the day. What could happen to produce that result?
 I have mostly followed this tutorial to begin: https://scrapeops.io/python-scrapy-playbook/scrapy-403-unhandled-forbidden-error/
@@ -1210,7 +1210,7 @@ I've tried multiples alternatives on python scripts, I've tested with those libr
 Since I will deploy it on heroku, it shouldn't need my manual action to do something manually on each interaction. Does anyone know what I should do for that?",1,2024-02-19 15:17:07
 How not to get banned scraping large amounts of data.,"I have created a selenium script that scrapes every property of rightmove.com and information for each one. For a bussiness I am creating I ideally want to update this every day. There should be around 800,000 properties. I would need to have around 5 instances of my script running at the same time. When testing my scraper i have not been banned yet. How could I do this and not get IP banned. when running this script pretty much 24/7. I am planning to run it on a vps.",1,2024-02-19 10:22:40
 Anyone own an online business that uses web scraping?,"Just curious about the potential costs if I were to create a website to display the data I’m scraping. I’m currently programming something to use for myself as it has made me a significant amount of income over the past couple weeks, but thought I might be able to sell it as a monthly subscription to other people. 
-Note: The data I’m scraping must be displayed to users as close to instant as possible. Thanks!",4,2024-02-19 01:20:31
+Note: The data I’m scraping must be displayed to users as close to instant as possible. Thanks!",3,2024-02-19 01:20:31
 Online Course,"Hi all.
 I'm hoping someone could kindly help.
 I have paid 2.5k for an online course alongside my employment, and after requesting a PDF copy to make it easier for me to study, it was declined therefore I'm having to read a prominently text-based course from a screen (I'm a bit old fashioned). Although there are several video based links this is not important.
@@ -1256,11 +1256,11 @@ rather than the page html. What is going on here?",0,2024-02-18 05:14:57
 How to tackle elements that change its id periodically.,"I've noticed some elements that changes its ids in a certain period of time, to avoid easy scraping i guess. What is the best approach to deal with this?",1,2024-02-17 23:12:13
 "What modules should I add to an open source project that combines headless browsing with LLMs, without reinventing the wheel?","Hi,
 I have been building a project that helps you do any browser automation, scraping, or functional testing tasks with the help of combining headless browsing with LLMs that can identify the UI elements of a webpage and make actions on top of it. Currently the project has only done an early release, but I think this one could have several modules that makes is easy for a web scraping user to have a customised LLM agent in their web scraping tasks. What modules should I further add, as the current landscape of LLMs  and scraping has a lot of new components in many popular projects?   
-Here is the project link and I have explained pretty much everything I am doing in the project readme and description: https://github.com/kindsmiles/pyvigate",2,2024-02-17 09:50:02
+Here is the project link and I have explained pretty much everything I am doing in the project readme and description: https://github.com/kindsmiles/pyvigate",3,2024-02-17 09:50:02
 Can I we scrape my college?,I started a business in college and want to get the emails of the students here through the directory. It does require me to sign in with my college email to access it. I’m using webscraper.io . I just want to send ads for my business. I’m still studying here so I don’t want to get in trouble. Would this cause problems?,0,2024-02-17 09:44:14
 Scraping / Automation with user creds,"Hi I am working on an automation / scraping tool and i need help with what i am trying to accomplish. I plan to allow others users to use my service. The service I am building requires login to third party websites. The websites utilize regular email pass login and the normal signin with google, microsoft etc.
 ​
-My first thought was to just store hashed or encrypted user creds in db and use that way. Is there a way i can use oauth or something else to do the same thing?",4,2024-02-16 21:35:29
+My first thought was to just store hashed or encrypted user creds in db and use that way. Is there a way i can use oauth or something else to do the same thing?",5,2024-02-16 21:35:29
 How to increase reliability?,"I have a fairly basic python script using BeautifulSoup and requests that is grabbing a small amount of public data from a large archive, but it always fails after about 20-30 successful grabs. I wait a while (like an hour), try again, and it gets a few more. it seems like maybe there's some sort of protection on the server end, or maybe there's something else going on? I've tried using tenacity, but it seems like I have to wait too long before retries for it to be useful.",1,2024-02-16 17:23:56
 How to scrape Twitter comments,How can I scrape 20000 twitter comments from a post? Do you know any tools? I'm having problems using API,1,2024-02-16 14:05:43
 Accessing node inside particular div that might occur elsewhere with same attribute value. How to narrow find_element to particular region,"How to select specific nodes under specific div. I want a pointer to the img node under div with class=level2 in the following html. The whole html is here[1]
@@ -1349,7 +1349,7 @@ Text classifier built in scraper,"Hi Everyone!
 I have used web scraping only once, but need to use it for my research again. I’m going to scrape public channels in Telegram (I need only posts’ texts and date), but the problem is I do not need all posts from these channels. What I need is only posts about one specific topic. So my main question is: is it possible to build in the text classifier in scraper? So the scraper goes to the channel, scrapes it, identifies if the topic is relevant or no, and puts into csv table only those posts that are on a specific topic. Is it possible to do? And if yes, any advices on it would be extremely appreciated. 
 Thank you so much in advance ❤️",2,2024-02-14 16:00:09
 Playwright or Puppeteer?,"Hey. I'm in a situation where I have to choose either Puppeteer or Playwright. I'm interested in nothing else but maximum efficiency and stability, knowing that my scripts take hours/days to finish.
-Thanks.",4,2024-02-14 11:56:16
+Thanks.",3,2024-02-14 11:56:16
 Trying to scrape some manga but the image are JS and shuffled,"Trying to scrape some manga (https://mangareader.to/read/akira-46/en/chapter-1) but using something like JDownloader, I get the images shuffled into a grid. Python script I used doesn't seem to parse any images. Using inspector I found the images follow a like this (an example of one of the pages):
 <div class=""iv-card shuffled loaded"" data-url=""https://c-1.mreadercdn.com/_v2/0/0dcb8f9eaacfd940603bd75c7c152919c72e45517dcfb1087df215e3be94206cfdf45f64815888ea0749af4c0ae5636fabea0abab8c2e938ab3ad7367e9bfa52/2c/65/2c65696bd8504c362d8b01db021b15b2/2c65696bd8504c362d8b01db021b15b2_1100.jpeg?t=515363393022bbd440b0b7d9918f291a&amp;ttl=1908547557"">
                     <div class=""card-loading"">
@@ -1360,7 +1360,7 @@ Trying to scrape some manga but the image are JS and shuffled,"Trying to scrape 
                     </div>
                 <canvas width=""727"" height=""1100"" class=""image-vertical""></canvas></div>
 Any help?",1,2024-02-14 14:49:03
-Instagram hashtags,"Hey I'm very new to this, is it possible to scrape the number of times a specific hashtag has been used? How hard/ easy is it to set up? What tools are the best to use to use?",3,2024-02-14 07:15:11
+Instagram hashtags,"Hey I'm very new to this, is it possible to scrape the number of times a specific hashtag has been used? How hard/ easy is it to set up? What tools are the best to use to use?",5,2024-02-14 07:15:11
 What to do with 503 code?,"Hey all! I'm kinda new to web scraping. I need to scrape data from millions of URLs. But when I start making the requests, I sometimes get a 503. I know for one that 429 is the code for being rate limited, but what's up with 503? What is its purpose and what do I need to do with that? Should I wait for sometime and request the same URL again. Or is the URL broken? Also, is it an error on my end or the server's end? Thanks!",1,2024-02-14 05:16:30
 Web scraping multiple sites,"I’m trying to develop a scraper that takes in a link of news site and returns a list of article urls for articles present in the homepage. It should be able to handle a variety of sites so I can’t hardcode specific html structures. 
 The approach I’m thinking of is extracting all links from the html then excluding any links that are present in the header/footer or point to external sites. This approach was successful in eliminating a lot of links but there are still some false positives. (For example, not all websites have a header/footer so I still get links from there and sometimes there are footer links outside the footer structure) Does anyone know how I can exclude other links or has a better approach?",1,2024-02-14 01:26:39
@@ -1378,7 +1378,7 @@ Capture Entire Website with Screenshots ?,"Hi ! I'm trying to screenshot all the
 I'm open to paying for it if there's a good website that does this kind of stuff....
 Any help is greatly appreciated !
 ​
-​",3,2024-02-13 09:36:19
+​",4,2024-02-13 09:36:19
 How is your setup?,"I have taken upon myself (the job want to save money by doing it inhouse) to setup a scraping bot(s) scraping our three main competitors. I am using Python with requests (JSON) and Selenium to load Javascript(html, CSS selectors) and save it all to csv files. I have tried bot Scraping Bee and Oxylabs proxies and it seems Oxylabs are faster (For my geolocation maybe). Then some Python scripts for merging, backup and calculations. I am gonna run all on an local windows PC with windows scheduler for the scripts and powerautomate to copy the files to Sharepoint and give an small report on a dedicated channel on Teams.
 This seems to me as an 'easy' way out. Maybe in the future it would involve for example an AWS/azure backend to handle compute, storage and an sql database. (Maybe an SSAS cube to PowerBI)..
 My projectfolder looks kinda like this:
@@ -1433,7 +1433,7 @@ Conclusion
 There are a ton of variables in large-scale web scraping that need to be accounted for. Bot detection, rising costs, and cumbersome tooling are just a few you WILL encounter. I wish you the best of luck in your endeavors and hope this guide provided a little guidance into where you should start looking or continue your journey.
 P.S. some useful open-source docs
 Puppeteer-extra
-Dark Knowledge",63,2024-02-12 05:23:41
+Dark Knowledge",64,2024-02-12 05:23:41
 Webscraping Nordstrom?,"Has anyone had any luck scraping a product page (e.g. https://www.nordstrom.com/s/sportswear-club-hoodie/6049642?origin=category-personalizedsort&breadcrumb=Home%2FMen%2FAll%20Men&color=765) from Nordstrom? I only need details like image, price, sizes, etc (product specific metadata).  
 Ive tried various headers with requests, and with selenium (headless and not) without any luck whatsoever. Very new to webscraping, so any help hugely appreciated, and if anyone had a script that would be amazing!",1,2024-02-13 00:53:44
 Chipotle Menu Price Web Scraping,"Hello All!
@@ -1462,7 +1462,7 @@ Usage:
 from gobnb import *
 data = Get_from_room_url(room_url,currency,"""")
 let me know what you think
-thanks",12,2024-02-11 21:05:08
+thanks",11,2024-02-11 21:05:08
 Wayback Machine/ Archive - Twitter hashtags,Is there any Python package to link to the wayback machine archive of twitter to search for particular hashtags rather than usernames?,2,2024-02-11 16:08:22
 Seleniumbase UC and block specific urls,"Hello,
 I am trying to block some urls from loading in order to have fast rendering of web page (css, js, images)
@@ -1538,15 +1538,15 @@ def request_with_proxy(url, headers={}):
             return response
         except Exception as E: print(E)
 
-Any ideas? Thank you!",3,2024-02-11 00:18:12
+Any ideas? Thank you!",2,2024-02-11 00:18:12
 How to scale webscraping with selenium?,"What is the best way to scale an application that uses Selenium? To be more specific, I thought of a backend application using Flask or Jango that starts, on an endpoint, a service using Selenium.
 The problem is that this seems like a huge memory bottleneck to scale a project like this to hundreds or thousands of users.",1,2024-02-10 20:09:15
 "Playwright browser getting detected after scraping 25,000 pages","Hello, I am scrapping a website protected by an anti-bot service, the service is very advanced. I managed to bypass it using common tricks + proxies + captcha solving services. Everything worked like magic and I was scraping using multiple instances. However, today the program stopped working and all the automated browsers are getting blocked. 
-The weird thing is I can use my main Chrome browser and access the website with no problem. How do such services detect automated browsers? (I have checked all the headers sent/time zone/ locales... nothing special)",9,2024-02-09 21:09:48
+The weird thing is I can use my main Chrome browser and access the website with no problem. How do such services detect automated browsers? (I have checked all the headers sent/time zone/ locales... nothing special)",7,2024-02-09 21:09:48
 Need to scrape 10 million links within a 28 day timeframe. Any Advice?,"As the title suggests im trying to scrape 10 million urls (from the same provider) in a month time frame. I run into 429's after about 1000 requests. I'm new to web scraping but not new to programming and I decided to just use python as it would be simple. Everything works besides the rate limiting. I am not opposed to spending money on proxies and whatnot, I just want to know the place im going to would actually be useful and not just get me locked out after 10000 requests.
 If you guys have any advice on this as I really have no clue where to start in procy rotating. If you have any advice on how to make an IP last longer before being 429'd aswell that would be great cause as of right now im obviously bot like im doing 8 urls in a multihreaded batch and just grabbing the html with a python request.
 Thanks everyone!
-Oh, and its a rolling 28 days so I will run it again the month after etc. thats why the time constraint",8,2024-02-09 19:55:08
+Oh, and its a rolling 28 days so I will run it again the month after etc. thats why the time constraint",7,2024-02-09 19:55:08
 Which ai tools can scrape social media for new posts?,"Not exactly web scraping but I am interested to find an ai tool that can scrape facebook, instagram, quora, reddit and similar websites where people will discuss and mention particular keywords.
 ​
 Any suggestions?",3,2024-02-09 11:26:02
@@ -1721,9 +1721,9 @@ How I can get instagram graphql query_hash?,"Uncommon question but related to sc
 i am trying to scrape a website https://www.sama.gov.sa/en-US/RulesInstructions/Pages/FinanceRulesAndRegulations.aspx it has pagination in the button my code is not clicking on the button i am using this,"next_button= await page.locator('//a[@class=""ms-commandLink ms-promlink-button ms-promlink-button-enabled""]')         if not next_button:             break  # Exit the loop if there's no ""Next"" button          await next_button.click()",1,2024-02-06 13:57:11
 Ever experience ISP provided routers blocking requests?,"In testing a scraping script, I noticed if I batched a thousand or more requests(to a proxy) at once I would get 98% failure rate with an ""ETIMEDOUT"" error- and more suspicious, other sites just from my browser failed.  After turning on a VPN all this disappeared.  The only thing I can think of causing this is my router is doing some kind of DDOS prevention.  Any idea on what could be causing it?",1,2024-02-06 05:32:31
 Any experience scraping facebook groups?,"The facebook api does not expose public group posts and comments unless you're the group admin. Which is why I resort to a regular approach. To use the search, an account is needed, and I tried automating the registration to counter the draconian rate limits imposed by the website, but I haven't gotten any further than the confirmation view, which if any of the proxies got lucky and a confirmation code is sent, the account keeps being suspended unless confirmed from the browser (not selenium, it doesn't work). Got any useful tips in that regard?
-I'm using a python requests approach with proxy rotation. Any idea why most if not all requests are detected despite emulating the browser's requests, cookies, headers, ...?",12,2024-02-05 14:05:37
+I'm using a python requests approach with proxy rotation. Any idea why most if not all requests are detected despite emulating the browser's requests, cookies, headers, ...?",10,2024-02-05 14:05:37
 Scraping the Samsung TV App Store,"Anyone have experience scraping the samsung TV app store? Wondering if there's any APIs to it, or a new website to a list of their apps. I used to this URL (samsung.com/us/appstore/browse) to grab info but now it forwards all apps to 404s. Any help/hints appreciated.",1,2024-02-06 01:06:55
-What's the best web Scraping project you've done or thought of doing ?,"Hi 👋, I'm just wondering. Just drop your project. I don't care how stupid or genius it sounds.",9,2024-02-05 09:04:03
+What's the best web Scraping project you've done or thought of doing ?,"Hi 👋, I'm just wondering. Just drop your project. I don't care how stupid or genius it sounds.",10,2024-02-05 09:04:03
 "Is it possible to scrape hidden data contained in JS object, which is cleared from the DOM after page load?","I'm developing a scraper which uses playwright and a proxy network to scrape company overview information and reviews from Glassdoor. Here is an example URL:
 https://www.glassdoor.com/Reviews/NVIDIA-Reviews-E7633.htm?filter.countryId=1&filter.countryId=3
 Strangely when I was testing it before on a different company with this URL:
@@ -2145,7 +2145,7 @@ if __name__ == ""__main__"":
     print(""Reviews:"", reviews)
 
 ​",1,2024-02-05 10:59:51
-What are the best options for web scraping with low level languages ?,"I've scraped the Web using languages like Python and Typescript many many times. But these days, I'm kind of into low-level languages like cpp & rust. I wonder what other low-level languages and libraries people use to scrape the web. So can you do me a favour and drop what you know in the comments?",7,2024-02-04 21:32:08
+What are the best options for web scraping with low level languages ?,"I've scraped the Web using languages like Python and Typescript many many times. But these days, I'm kind of into low-level languages like cpp & rust. I wonder what other low-level languages and libraries people use to scrape the web. So can you do me a favour and drop what you know in the comments?",8,2024-02-04 21:32:08
 Furniture scraping help,"Hii people, I am quite new to scraping, although a bit familiar with python and have also used beautiful soup for very basic stuff recently. Currently I am tasked with writing a python program to get images from ikea with short description of the images and with the filters which the ikea website provides such cost, colour, material etc.
 Anyone ahs any suggestions on how to approach this or anyone has any readymade code for this?
 Any help would be great, thanks",1,2024-02-05 08:13:32
@@ -2372,7 +2372,7 @@ def scrape_emails(websites_file, output_file_name):
 ​",1,2024-02-01 09:02:51
 How can I scrape all of the available URLs of a listing site?,"How can I scrape all of the available URLs of a listing site? for example, I want to get all available URLs of a marketplace site. I guess they have around 3,000 items. I'm a python & javascript expert. I know how to scrape data from URLs that I can access to but I don't know how to get all URLs. Should I scrape from search engines? or is there a way to see website URLs directory?",2,2024-02-01 03:55:58
 How legal is it to scrape data from TikTok,"I'm working on a project where I need to access and display publicly available data from TikTok user profiles, such as engagement metrics and video statistics. I'm considering developing a web scraper for this purpose but I am uncertain about the legal implications.
-Has anyone here undertaken a similar project, and if so, how did you navigate these legal waters?",11,2024-01-31 10:57:32
+Has anyone here undertaken a similar project, and if so, how did you navigate these legal waters?",9,2024-01-31 10:57:32
 Wealth Manager Software Providers,"Within the Wealth Management space there are software providers that offer performance reporting (how is your portfolio doing over the past month, qtr, yr, etc.). 
 Wealth manager websites have links to longin URLs. Within this URL it says the name of the service provider.
 I’m wondering if you can scrape the web and pull the wealth manager url along with the url of the service provider.
@@ -2389,7 +2389,7 @@ Data I want to scrape are Practice Name, business email, and website, for each c
 My initial thought for this was Google search paired with Clinic's website.
 What are your suggestions?a  and are there any public directories where I can find all the data easily.",1,2024-01-30 17:51:23
 Extracting data of a sub reddit.,"Hi all.
-I am trying to extract all the data(data as in all posts) from a sub reddit. I am aware of PRAW but I think it has some limit. Is there any workarounds to do this?",3,2024-01-29 15:39:48
+I am trying to extract all the data(data as in all posts) from a sub reddit. I am aware of PRAW but I think it has some limit. Is there any workarounds to do this?",4,2024-01-29 15:39:48
 Python Web Scraping using asyncio (opinion needed),"I want to write an application that compiles links to national news bulletins from different sites using asyncio on Python and turns them into a bulletin containing personalized tags. Can you share your opinions about running asyncio with libraries such as requests, selectolax etc.?
 
 Is this asynchronous programming necessary to write a structure that will make requests to multiple websites and compile and group the incoming links? Or is time.sleep enough?
@@ -2418,14 +2418,14 @@ I'm looking for advice on where I can find clients to either:
 - Request certain data from me and buy it
 - Sell the data that I already have
 And which way is more preferable? Any help appreciated!",2,2024-01-28 16:09:34
-I need to scrape bulk data of google business site URLs from the internet in my area. Is there any way to do that?,"Ideally I am looking for some tool that will scrape from GMBs, Google Maps or any other directory businesses which have an active Google Business Site will be on. So i will need some kind of a scraper which would help me sort specifically for those.",5,2024-01-28 08:23:19
+I need to scrape bulk data of google business site URLs from the internet in my area. Is there any way to do that?,"Ideally I am looking for some tool that will scrape from GMBs, Google Maps or any other directory businesses which have an active Google Business Site will be on. So i will need some kind of a scraper which would help me sort specifically for those.",3,2024-01-28 08:23:19
 Would like help scraping thousands of public domain stock images and sharing them for free,"This is a long story to bear with me. So for some extra context, finding old stock photos isn't very easy. You can find blogs with a few of them here and there or old CD ROMs from the 90s, but if you want to find 30s-70s stock photography in bulk you're kinda screwed. These photos are really useful when wanting to create vintage looking advertisements and researching commercial art and historical aesthetics. During my search for these, I found H. Armstrong Roberts, basically the first stock photographer who started selling his photos commercially as early as 1920. Roberts library was distributed by a company named Retrofile in the 2000s along with an assortment of other old stock libraries that are currently unknown in their origin. Retrofile was bought in 2005 by Getty Images, and while a good chunk of those libaries existed on ClassicStock and RobertStock, those were also bought out by Getty later on. As of right now, Getty owns the entire Armstrong Roberts/Retrofile archive.
 Here's the thing: Roberts died in 1947. Not only did he die in 1947 but none of his photos had their copyright registered. Given that he died over 70 years ago, his entire body of work is public domain. Given that Getty also lists Retrofile's other archives under Roberts name even though he was already dead, theoretically these are also public domain until proof can be provided that they belonged to someone else. They are listed under his name, so they should be treated as such.
 Alamy currently hosts the ClassicStock/Roberts archive on their website, and while it isn't as complete as Getty's, what makes this special is images can be downloaded freely from Alamy using downloader.la. While they aren't super high quality, they are usable when working on a 1080p canvas.
 What I want to do is figure out a way to download the entire Roberts archive in bulk, watermark free, with the titles as their file names and then upload those to the Internet Archive (or some other file service). There is no reason why these photos should be behind a paywall and I think it would be of great use to many designers and researchers.
 I cannot program in Python or any other language, but I do have a very weak understanding in how to run said scripts and have done so before. I request someone who is interested in this project and would be open to writing a script that can download the entire collection in bulk using the same system that downloader.la uses (or better if possible.)
 The H. Armstrong Roberts collection can be viewed here.
-I am not asking for you to store them yourself, I just need a python script or some other tool I can run and I'll take care of the files from there.",8,2024-01-28 02:33:23
+I am not asking for you to store them yourself, I just need a python script or some other tool I can run and I'll take care of the files from there.",7,2024-01-28 02:33:23
 How to bypass PerimeterX,"PerimeterX (now Human Security) is an anti-bot software that leverages advanced machine learning and behavioral analytics to accurately identify and block malicious bot traffic in real-time. There is currently 153,000 websites using PerimeterX.
 Recognize PerimeterX
 To identify PerimeterX's presence on a website, look for these characteristics:
@@ -2584,7 +2584,7 @@ Behavioral Analysis: Utilize tools like ghost-cursor (found at https://npmjs.com
 Learn more:
 We're talking about multiple ways to bypass PerimeterX, Akamai, NuData on the Web Scraping & Data Extraction discord server!
 Come say hi!
-https://discord.com/invite/fHbbHTq4CQ",13,2024-01-27 05:10:23
+https://discord.com/invite/fHbbHTq4CQ",12,2024-01-27 05:10:23
 Downloading all pdfs (help),"Ive currently started working as a tutor and I'm trying to download all the resources (pdf files) from https://www.physicsandmathstutor.com/ e.g. past papers and quiz sheets
 Ive tried beautiful soup but it doesn't seem to folder them but instead just download everything
 e.g.https://www.physicsandmathstutor.com/past-papers/gcse-maths/aqa-paper-1/ all the pdfs from this page download to the folder \documents\past-papers\gcse-maths\aqa-paper-1\example-exam-paper.pdf
@@ -2597,7 +2597,7 @@ Scrape Data From an Android App?,"I am looking for a way to scrape data from an 
 2) are there open source/free tools for HTTP proxy and emulators? I found ones online and they seem to be for a price.
 3) Any proper threads/resource I can use for educational purposes? I basically learned web scraping through selenium, beautiful soup and API but all from web pages. 
 ​
-much thanks!",7,2024-01-26 18:30:10
+much thanks!",6,2024-01-26 18:30:10
 "How to ""submit"" injected reCaptcha v2 solution when no button identified? (Selenium - Python)","Below is what I have so far, but it doesn't work.. I found a textarea marked g-recaptcha-response and injected into it a TwoCaptcha-generated solution. But I have no way to ""Submit"" it. Cannot locate any button and focusing on it and pressing Enter doesn't seem to work unless I'm doing something wrong.
 Any solutions are welcome.. The site generating the reCaptcha v2 prompts the challenge upon clicking ""submit"" on my search request. No ""Submit"" inside the reCaptcha area was found, just ""Verify"".
 target url: https://urlscan.io/
@@ -2626,7 +2626,7 @@ How to Build a Price Tracking Bot that utilizes real-time data 24/7,"I see many 
 They get this data immediately, right when it drops. I'm not sure how this is possible for them to get real-time data without them getting rate limited.
 The only way I see that's possible is that they are constantly making the HTTP Request to the specific product 24/7 every second. But this seems too expensive. Especially since their price tracking bots can track thousands and thousands of products.
 So what technique are they using to get real-time data for when a product changes prices?
-If I were to currently attempt to make one, I would be forced to check prices like every hour or something(so I don't go over the rate limit). How are they bypassing that?",14,2024-01-26 03:10:49
+If I were to currently attempt to make one, I would be forced to check prices like every hour or something(so I don't go over the rate limit). How are they bypassing that?",13,2024-01-26 03:10:49
 In need of a simple tool to search a website for words that are typically not searchable.,"Hello,
 I need a tool that can pull up a search on a website for info that is typically shown only to logged in users but not searchable.
 To be more precise, this is the website: https://ecase.justice.bg/Case
@@ -2667,7 +2667,7 @@ https://github.com/sonya75/starbucks-botdetection-cracked
 Anyways here are part 1 and 2
 https://www.botting.rocks/shapesecuritys-javascript-vm-part-1/
 https://www.botting.rocks/shapesecuritys-javascript-vm-part-2/ 
-I still have a few more parts to write about and then I will start writing more about Incapsula.",8,2024-01-24 17:53:58
+I still have a few more parts to write about and then I will start writing more about Incapsula.",10,2024-01-24 17:53:58
 SeleniumBase and scrap speed,"Seems that SeleniumBase waits about 4 seconds after the page is fully loaded, and I can't see the reason
 I have this demo code:
 from seleniumbase import Driver
@@ -2770,7 +2770,7 @@ You can adjust the settings for how often the phone goes into airplane mode, and
 If  your phone is not rooted, when you generate a reset link, trigger it  once and the default assistant settings page will open. From there,  select Localtonet as the default assistant.
 Next, go to https://localtonet.com/tunnel/proxyserver and choose either HTTP or SOCKS proxy, then create it. Click ""Start"" to start the proxy server.
 You  can connect to the server using the IP address and port number  provided. You can also set a username and password in the tunnel  settings.
-Note that the SOCKS5 proxy now supports TCP/UDP.",3,2024-01-24 07:37:58
+Note that the SOCKS5 proxy now supports TCP/UDP.",5,2024-01-24 07:37:58
 Confused about mobile Endpoints,"Hello,
 I came across tiktok-scraper on github (no longer maintained) and was looking at how they coded up the scraper, afaic tell they were taking the session id FROM THE PC BROWSER session and putting them into a nodejs MOBILE server request  
 a line in the script for const request:
@@ -2779,7 +2779,7 @@ I'm kind of confused how this can work? Does this assume that the mobile api end
 Since I'm new to bulk webscraping, why do they use the mobile endpoint (if I'm not mistaken)? Softer security measures and different limits? Does the response on mobile differ from the response on webbrowser? Do they cut out loading the MB heavy parts of the response in that way?  
 Wouldn't I need a unique mobile footprint for each scraper in this case? I know there are services out there that can provide me with that, but my understanding is I would need to intercept each one of the request first for each instance of the mobile connection to get the unique fingerprint first and then  create a mitm connection->then scrape the response + I would need to mimic typical user session behaviour iiuc(?)   
 Another thing that is puzzling to me is the use of a nodejs server, I thought birp et al are used for these types of scraping activity?  
-Thank you for your time",2,2024-01-24 07:18:34
+Thank you for your time",4,2024-01-24 07:18:34
 Article results based on keywords,"How would I go about scraping for articles and websites online that contain user given keyword.
 Like a python program where you input a keyword and the output is all the article/website urls that contain the keyword.",1,2024-01-24 05:57:36
 Web scraping Udemy with Scrapy and Splash,"Hi everyone, I'm having trouble scraping Udemy websites for courses data. For example, I tried to scrape /topic/web-development and extract its urls to courses. However, theses URLs are returned dynamically. So, I used splash and tried to write Lua script to wait for a few seconds to let the urls load but does not seem to work. Anyone has experience with this please?",1,2024-01-24 03:26:45
@@ -2799,7 +2799,7 @@ https://paanu7ylzlapritxhdkk3642ti0blceg.lambda-url.us-east-1.on.aws/?id=9b5b912
 This will give only the final video url, I didn't deploy the full video download because the bill will increase a lot if I do it, but you can implement it yourself
 source: https://www.reddit.com/r/DataHoarder/comments/19d8omx/this_videosharing_website_is_going_to_delete_99/
 let me know what you want me to add to to the bot
-Thanks",8,2024-01-23 14:32:44
+Thanks",7,2024-01-23 14:32:44
 403 Forbidden errors when requesting data from Indeed.,"I am looking to build a job posting web scraper. I plan on scraping data off of Indeed, Linkedin, and Monster. I am currently using Cheerio and Axios to request and parse the HTML from Indeed but I am always getting a 403 forbidden error. I am looking for resources or tools that are available to get around this error.",1,2024-01-23 17:55:57
 Had anyone done scraping on iPad apps before?,need help or at least some discussions,1,2024-01-23 17:39:27
 Launch ephemeral headed chrome instances in Docker,"Run your bots on Chrome in an isolated graphical environment with this Docker image and run script I wrote:
@@ -2900,7 +2900,7 @@ Stacktrace:
 
 any idea - what goes on here - i guess that i am facing selenium issues - while the headless-browser does not work propperly
 ​
-​",4,2024-01-22 11:12:19
+​",3,2024-01-22 11:12:19
 trying to get more insights into the use of selenium on google -colab - a handson approach,"​
 ​
 i am trying to get more insights into the use of selenium on google -colab. 
@@ -3015,7 +3015,7 @@ https://preview.redd.it/vt3903q41zdc1.jpg?width=1284&format=pjpg&auto=webp&s=280
 "fun stuff, fu** captcha","working on https://inconsistentcontacts.com
 this is getting NYSE company data… to be pushed to the project tonight.
 did most of Fortune 500 yesterday - need to complete industry tags and a bunch of other shi…
-Kinda sucks rn but #remindme",18,2024-01-21 18:23:13
+Kinda sucks rn but #remindme",20,2024-01-21 18:23:13
 Web Scraping Using the Network Tab,"Hey, I am trying to scrape data from a website, and I decided to use the network tab to search or the json response that is being rendered on the front end.
 I found the request that yielded the response but when I copied and pasted this URL on my browser I got a response similar to this
  {""code"":40101,""msg"":""no permission"",""request_id"":""2024012207483102E5C956EFC333680D96""} 
@@ -3045,7 +3045,7 @@ My current approach is more or less as follows
 ​
 This is more or less a high level view, but do you have any other approach to this? do you maybe store the whole HTML in the database? or store the 'unclean' data in database and then have some ETL process?, in my current process i do all the cleaning before i insert into database, so that in database i always have the clean data
 ​
-Thanks!",15,2024-01-21 13:08:22
+Thanks!",16,2024-01-21 13:08:22
 "New to programming and web scraping in general, in python how can I iterate over a complete site that has URLs end in /xyz/""some random text""","the /xyz/ is always constant however not sure how I can iterate over a site where all the URLs end in different and random text
 This is the site in question:
 https://wodwell.com/
@@ -3096,7 +3096,7 @@ Best method to clean and format may be dependent on the parent method of obtaini
 Thanks",1,2024-01-21 01:11:42
 Is there a current solution to scrap tweets,"So I decided for my master project that I would like to use twitter data on python to get Sentiments on a certain subject and I am now starting to realise that it is not as easy as it used to be due to Musk. I found this YouTube video here https://youtu.be/MNEw3Mplm7E?si=Q7eGcZawsNvSu9zB. Has anyone tried this?
 What I would realistically like to do is scrape twitter data by certain keywords during a certain time period. Is this realistically achievable?
-Lastly, if not is there any other python libraries that allow to scrape other social media data that can be used for Sentiment analysis.",4,2024-01-20 15:45:38
+Lastly, if not is there any other python libraries that allow to scrape other social media data that can be used for Sentiment analysis.",3,2024-01-20 15:45:38
 Production level scraping,"For production-level scraping, does it happen in real-time or is the data stored in warehouses or maybe in vector DBs?",5,2024-01-20 08:54:04
 Cloud Flare bypass,"Hello!I am doing a project that's main focus is to do some web scraping directly trough API calls (so no browser involved / no selenium or puppeteer).
 My main problem is that when I make the API call to login to the website I want to scrape, I am only able to get the desired response (Bearer Auth token) when I send the request with my own IP (no proxy) and with the cookie header copied from the request sent trough a chrome browser.
@@ -3165,7 +3165,7 @@ Extended Filters (Collections, Plays, Stats Sliders)
 0
 0",3,2024-01-18 14:18:53
 Scraping data through a map,"Hey, Guys I was wondering if anyone could help me regarding this. I want to scrape the data about these charging locations. How do I approach this?
-https://preview.redd.it/3020tflf86dc1.png?width=1303&format=png&auto=webp&s=4ceb28b4e90f43792e7962652750437519499381",2,2024-01-18 09:56:58
+https://preview.redd.it/3020tflf86dc1.png?width=1303&format=png&auto=webp&s=4ceb28b4e90f43792e7962652750437519499381",1,2024-01-18 09:56:58
 [question] scraping notion,"I am trying to scrape the webside notion and for this I am using selenium but apparently notion detects strange entries and now to enter the notion it asks me for temporary codes.
 Has anyone worked with notion to extract information?",0,2024-01-18 15:24:00
 how to scrape a pdf with multiple columns (like paper newspaper or magazine)?,"I have PDFs that I have to scrap that has 2 columns of text.  I'm able to scrape it via python but it will not distinguish the 2 column but rather copy the full line of text from both columns as a single line of data.  
@@ -3304,7 +3304,7 @@ I make the respective API calls for that and I am able to get the data perfectly
 Now the issue is Instagram blocks me after sometime or I reach rate limit.
 Is there any workaround for it? I heard proxy is one way of doing it, then how can I implement it? Is there any reliable way for that? 
 If there is any other way it would be very helpful
-Thanks ✨",4,2024-01-16 13:59:35
+Thanks ✨",6,2024-01-16 13:59:35
 Any way to bypass cloudflare?,"Trying to scrap images from platesmania.com ,
 Tried with undetected_chromedriver didn't work.",10,2024-01-16 06:23:05
 Help with scraping LinkedIn profile,"Hi guys, I am trying to scrap job title, company, year for a LinkedIn web scraping project. However**, I am unable to scrap multiple job experience for a single company.** I could only capture the latest experience for a company. However, it seems that the code for different job title in the same company has the same class and div. I just couldnt figure it out why I cant scrap all the experience for a company.
@@ -3334,15 +3334,15 @@ driver.execute_script(""return document.body.innerHTML"")
 there are no relevant iframes that I can see. I've switched to both iframe 1 and 2 and I see no relevant content, though I could be something wrong here.
 
 The selenium API is pretty bad.  Is there really no equivalent to `.text` that will just give me all the HTML? That's all I want is just the source of the current page and beautifulsoup can take care of the rest.  I also really feel like the webdriver/webelement object contains this info.  At this very moment, I'm staring at 52 prices in the `.text` results, yet even when I search for the html attribute from the driver I don't see them. And as I mentioned, this is running headful, so when I inspect the source in the browser of course I do see what I'm looking for (though attributes and names change in some ways, anti-scraping measures?)  I can provide code if needed, though my bet it's my ignorance about something that is obvious to those in the know.
-​",5,2024-01-15 05:50:44
+​",4,2024-01-15 05:50:44
 Are There Exchanges/Markets To Purchase Scraped Data?,"So I have a client who is looking for numerous databases, some of them were easy to just scrape the usual suspects, but he has a few others that are more difficult to find through typical B2B sources, especially since he's getting so granular. 
 I'd seen in the past, through the dashboard of one of the more well-known scraping platforms a mini marketplace that had some scraped databases you could purchase, but for the life of me, I cannot recall which, and so far coming up empty handed. 
 So this got me thinking, if I've seen that market, are there other markets I might be able to browse and see if someone else has already scraped the data he needs? 
-Thank you in advance.",3,2024-01-14 15:53:07
+Thank you in advance.",5,2024-01-14 15:53:07
 Discord Channels,"Im looking to get messages from a couple discord channels. Maybe 10-12 times daily on each channel.  Since I can’t add a bot to the server and have to use my personal account i wanted to ask if anyone had issues with discord doing this?
 Since it’s my personal, dont want to get banned or anything like that. Since im only going to do this max 24 times a day, would I even be bothered by discord? 
 Thanks.",1,2024-01-14 19:59:18
-how to make money out of web scraping,Hello I'm pretty good at web scraping and i want to make money out of that so please suggest to me some ways to make  good money out of web scraping besides working as freelancer,34,2024-01-13 18:19:55
+how to make money out of web scraping,Hello I'm pretty good at web scraping and i want to make money out of that so please suggest to me some ways to make  good money out of web scraping besides working as freelancer,33,2024-01-13 18:19:55
 Scraping gets blocked through fetch but not in browser,"Hi I am trying to scrape a grocerystore for their product data. When I visit the site through the browser it works and I can see the data, however when I try to use fetch or puppeteer it gets blocked. I copied the same headers and everything from the api request in the browser, but it still gets blocked.   
 Any clue how they detect that it is sent through a fetch request or puppeteer?  How could I get around this?
 This is the endpoint that I am trying to scrape: https://www.ah.nl/zoeken/api/products/product?webshopId=564313",2,2024-01-14 08:33:34
@@ -3357,7 +3357,7 @@ Previous bots:
 - Amazon web crawler https://github.com/johnbalvin/gozon  , I'lll add search support on future realeases
 - AirBnB web crawler  https://github.com/johnbalvin/gobnb , I'lll add search support on future realeases
 Warning:- Try using proxies, if you don't,  your IP will be banned, my IP got banned and still cant access the page, so use proxies
-It uses Golang as the main language and only HTTP requests like an animal, I hate using selenium, puppeteer, playwright .. etclet me know what you thinkthanks",9,2024-01-13 22:36:36
+It uses Golang as the main language and only HTTP requests like an animal, I hate using selenium, puppeteer, playwright .. etclet me know what you thinkthanks",8,2024-01-13 22:36:36
 Can I upload IMDB data on Kaggle,"Greetings everyone,
 I am new to web scraping and don't know much about data laws. I have just completed my first project, extracting the IMDb top 100 anime list. Can I upload that data on Kaggle and make it public? Also, can I publish that project on my GitHub?
 ​
@@ -3367,7 +3367,7 @@ Thank you for your response In Advance.
 How to get out of shadowban.,"Hi everyone!
 I'm trying to scrape a site. It's completely dynamic - the page source contains only a bunch of scripts and the text ""Turn on scripts, dummy"", so I'm using Selenium. Everything seemed to be okay until I got shadowbanned. There are no error messages, 404s or 403s, nothing like that. The page itself loads just fine, the site just doesn't provide any data for my requests.
 It's not a surprise since the first versions of my script weren't utilizing any masquerading techniques. But now I've implemented everything I could think of - a random user agent, request headers matching that user agent, rotating proxies, and a bunch of fingerprint spoofing browser extensions. Nothing works. Just nothing. The site somehow knows that it's me and redirects me to the data input page. 
-The same URL that fails on the server where I scrape the site works just fine on my personal machine. I have no idea what to do except drop my server and pick a new one.",10,2024-01-13 14:29:11
+The same URL that fails on the server where I scrape the site works just fine on my personal machine. I have no idea what to do except drop my server and pick a new one.",9,2024-01-13 14:29:11
 Amazon Time Interval,I’m scraping 100 listings on Amazon with a 30 second delay between pages . My bot can handle the captcha but I was wondering if I could lower the time interval between pages?,1,2024-01-13 23:26:30
 LinkedIn Job Description Scraping,"Hi,
 I want to use Python to automate feeding LinkedIn job description URLs and tell me whether a job is no longer accepting applications? This status only shows up when I log into LinkedIn so generic scraping doesn't work. 
@@ -3584,7 +3584,7 @@ print(page_to_scrape.content)
 ​
 What is returned:
 b'<html><head><title>Object moved</title></head><body>\r\n<h2>Object moved to <a href=""https://answers.microsoft.com/en-us/site/silentsignin?returnUrl=https%3A%2F%2Fanswers.microsoft.com%2Fen-us%2Fwindows%2Fforum%3Fsort%3DLastReplyDate%26dir%3DDesc%26tab%3DThreads%26status%3Danswered%26mod%3D%26modAge%3D%26advFil%3DMeTooVotes%26postedAfter%3D2023-01-09%26postedBefore%3D%26threadType%3Dquestions%26isFilterExpanded%3Dtrue%26page%3D1"">here</a>.</h2>\r\n</body></html>\r\n'
-As though the page is being redirected",23,2024-01-09 13:58:15
+As though the page is being redirected",22,2024-01-09 13:58:15
 Find where headers are being added to Ajax Request,"I am trying to recreate an HTTP request through Python Requests but it looks like there are headers being added to the Ajax Request on the page that is validated server-side. Resending the same request (that worked previously) causes an error to be returned so the headers are important.
 Here is the website I am trying to login to.
 I was able to find the code that sends the POST request:
@@ -3609,7 +3609,7 @@ I did find some obfuscated javascript in the <!-- Google Tag Manager --> section
 200 in Postman but 403 in Python,"Hey there,I have an issue where I can't get my API request from Python Requests to go through. The same request works fine from Postman and also from the browser. I have already tried copying the exact headers that my browser used. I have also tried switching my VPN on and off.
 This is a service that requires authentication, which I have, and which gets accepted when I request from Postman/Firefox.
 Any ideas what causes the API to block my request when it's coming from Python (even when the 'user-agent' header says it's coming from Firefox), and how to avoid it?  
-EDIT: I was able to get a response with Python by using the 'curl-cffi' library as suggested by The__Strategist below. Thank you for the inputs.",6,2024-01-09 11:22:13
+EDIT: I was able to get a response with Python by using the 'curl-cffi' library as suggested by The__Strategist below. Thank you for the inputs.",7,2024-01-09 11:22:13
 Trying to download images from a clothing site,"Hi, automod said my previous post needed more details, so trying again. I'm trying to download clothing images from this site - https://www.myntra.com/fusion-wear
 The attributes of the images i'm trying to download are as follows:
 
@@ -3687,7 +3687,7 @@ Behavioral Analysis: Utilize tools like ghost-cursor (found at https://npmjs.com
 
 Learn more:
 Anti-bots are a growing issue among web scrapers, especially given how complex bypass can be for beginners. If you are struggling with nuData, come say hi on the Web Scraping & Data Extraction discord server!
-https://discord.com/invite/fHbbHTq4CQ",8,2024-01-07 16:03:33
+https://discord.com/invite/fHbbHTq4CQ",9,2024-01-07 16:03:33
 Need help with the TG Desktop Restrictions.,"Hello, I need a way to surpass content d0wnl0ad restriction and forwarding on Telegram Desktop. I know on android files can be easily downloaded, and on TG Web there's some scripts for extensions for browser d0wnl0ading.
 However, I prefer to d0wnl0ad with the Desktop version because it's the faster one, and more easier to use to d0wnl0ad. And nope, I don't want to d0wnl0ad nothing ¡ll3gal or f0rbbid3n. Just a bit of soft-NSFW content,
 Hope you have a solution for me, any app of script to work with the Desktop version.
@@ -3702,8 +3702,8 @@ The project will get Airbnb's information including images, description, price, 
 https://github.com/johnbalvin/gobnb
 It uses only HTTP requests like an animal, I hate using selenium, puppeteer, playwright .. etc
 let me know what you think
-thanks",14,2024-01-06 22:23:18
-How to find a job with web scraping skills?,The title says all.,8,2024-01-06 12:07:23
+thanks",12,2024-01-06 22:23:18
+How to find a job with web scraping skills?,The title says all.,7,2024-01-06 12:07:23
 Pulling Redfin URLS not for sale,"Hi all,
 I'm somewhat new to scraping but I've found a lot of great resources here and elsewhere for pulling home information off of Redfin in Python. So far I'm able to:
 
@@ -3714,7 +3714,7 @@ However, I want to get a list of URLs for every single home in a certain zip cod
 Any assistance would very much appreciated, this is the last step in my project. Thanks!",0,2024-01-06 18:49:22
 Scraping google maps,"Has anyone had success in scraping google maps? I am stuck on attempting to scroll down the list of results. Only the first few results are loaded. (Imitating a higher screen resolution results in more results being loaded at start). Upon scrolling, more results are fetched and loaded. I have been stuck for a long time attempting to recreate scrolling down with the mouse wheel on the results panel. I have tried everything across multiple platforms, puppeter, selenium, html-requests, everything.
 Link to the example of what I am talking about:
-https://www.google.com/maps/search/scrap+yard+Kansas+City&hl=en",24,2024-01-05 22:35:36
+https://www.google.com/maps/search/scrap+yard+Kansas+City&hl=en",23,2024-01-05 22:35:36
 How can I scrap Emails from Youtubers when I've reached the daily limit?,"I need to get the emails of a list of youtubers for my work but I reached the daily limit, how can I circumvent this? Thankis in advance.",1,2024-01-05 16:19:50
 Proxies + VPN?,"Currently making a scraper and using proxies. However, I don't want to accidentally reveal my IP. Would simply turning a VPN on reduce the risk of accidental IP reveal? Or are proxies sufficient?",1,2024-01-05 15:32:51
 Help! Scraping products from anaconda,"I am trying to automatically get product numbers on certain items at each store individually.  
@@ -3834,7 +3834,7 @@ Just a friendly reminder, we do like to keep all our self-promotion in one handy
 Now with AI tools around, is there an easier way to do this? Is it possible, for example to get a screenshot of a webpage and use AI to get the correct price? Any other methods now that are more fail-safe then using classNames? Since there can change.",2,2024-01-01 09:20:55
 https://pixelscan.net/ tips?,"Hello guys, recently I've become aware of https://pixelscan.net/, an interesting site to analyse my scraper if it's fingerprint is identifiable as bot.
 As expected, its informing that my fingerprint is inconsistent, but does not offer any tip of ""how"" it detected. 
-Any tips ?",4,2024-01-01 01:47:47
+Any tips ?",5,2024-01-01 01:47:47
 "Bulk scrape big list of URL's, the visible inner text (article content) to doc or txt files","I need something where can input CSV file of URL's which will then be scraped in bulk and then an output file to save the content to word document or text file if cant do word, ideally appending the data to the document as i want to scrape multiple URL's into the same file in many cases (like similar articles), purpose is bulk data collection for AI analysis for research.
 Any ideas on apps to do this or get close, it feels simple enough to exist already?",2,2023-12-31 20:56:58
 Would this project be feasible/useful?,"I want make a YT scraper that searches for a word, and then finds videos from the last week, comparing their views to channel avg views in last 10, and then attribute the positive or negitive difference to each word in the title, and finally end with a list of words sorted by how much they increase views compared to average.
@@ -4030,7 +4030,7 @@ Keep in mind this would be part of my first ""nice"" project so im pretty inexpe
 How to scrape using API,"What's your general approach for scraping using a backend API? I understand the idea of inspecting XHR requests, but more often than not, they will have some token in the payload or the header, which renders replay attack useless. In those cases, how do you reverse engineer the obfuscated JS to get the token?",3,2023-12-24 21:39:07
 Scraping an API,"Hey Everyone! I am a noob when in comes to scraping so I am hpoing some of the pros out here can help out. I have a successful selenium code that is scraping some information from a website where I have to login and input a few things to get a graph which contains the info I need. Now, even though my code is working, it’s not scalable because it takes too long to get the content when I need to pull thousands a day ( I can only do 200 a day right now). I am trying to pull it by making direct api calls but I am struggling to get past the authentication part, do any of you have any pointers on videos or documents I get read regarding getting past the authentication part of the api? I have my username and everything I just don’t know what is not working. 
 Another thing I have contemplated is running multiple python files at once, which since my computer is a tad bit old can only run 2 chrome browsers at once. But with a newer computer with better cpu and RAM, could I theoretically run say 100 selenium files, each opening a chrome browsers and scraping? 
-Again I am relatively new so looking to understand all of these better",8,2023-12-23 20:23:21
+Again I am relatively new so looking to understand all of these better",9,2023-12-23 20:23:21
 Teach me how to scrap this website!,"Hey guys, i am looking for someone to teach me how to scrap this javascript driven website and get an  url for each housing item in this website. I don't know why i cannot find the url for every housing page, and the web is only redirected if i click the house item.  
 Here is the sample link: https://mamikos.com/cari/yogyakarta-kota-yogyakarta-daerah-istimewa-yogyakarta-indonesia/all/bulanan/0-15000000?keyword=yogyakarta&suggestion_type=search&rent=2&sort=price,-&price=10000-1380000&singgahsini=0&gender=0,1&tag=10,11,14,15,17,648 
 And i try to have this kind of url for evry item that listed:
@@ -4075,7 +4075,7 @@ chrome_options.add_argument('--disable-blink-features=AutomationControlled')
 chrome_options.add_argument('--disable-extensions')
 chrome_options.add_argument('--disable-popup-blocking')
 return wb2.Chrome(seleniumwire_options=sel_options, options = chrome_options)
-I have tried using undetected chromium with no luck with my local ip",5,2023-12-22 18:30:04
+I have tried using undetected chromium with no luck with my local ip",4,2023-12-22 18:30:04
 How to scrape entire website for products and information?,Hi. I am looking for help to scrape an entire online store. This would include hundreds of products and information. Is there a service available to save me the time? I don't need realtime updates for the data just a one off scrape to be stored into a csv file to be used in my online store. Any advice or suggestions would be great thank you. Adrian.,1,2023-12-22 23:27:28
 Scraping YouTube Shorts,Is there a way to use the YouTube search API to access YouTube shorts in particular? I can't find any documentation.,2,2023-12-22 19:24:54
 How to scrape all of the reviews of a user,"I want to ask for a user’s Google name and scrape all the reviews they’ve made on Maps. How can I do this? Also, I want to scrape the reviews of important places in a city. How can I do these?",1,2023-12-22 22:47:05
@@ -4446,7 +4446,7 @@ We are currently looking for an intern to come in and take the reins in terms of
 We are flexible on work hours, so you can create your own schedule, and you will receive a certificate upon completion of this internship.
 You do NOT have to be US-based to apply.
 Please apply by sending a PM with your email, and/or link to your resume.
-EDIT: this is a PAID internship, as well!",0,2023-12-12 17:48:43
+EDIT: this is a PAID internship, as well!",1,2023-12-12 17:48:43
 Need help scrapping reviews from Tripadvisor,"Hello everyone,
 For a school project i need to scrap reviews from tripadvisor ( things to do page example ) can you please help ? i'm just a beginner
 Thanks in advance",1,2023-12-12 13:08:13
@@ -4754,7 +4754,7 @@ Got a secret discount code burning a hole in your pocket that you're just itchin
 Looking to make sure your post doesn't fall foul of the community rules and get ousted by the spam filter?
 
 Well, this is your time to shine and shout from the digital rooftops - Welcome to your haven!
-Just a friendly reminder, we do like to keep all our self-promotion in one handy place, so any separate posts will be kindly redirected here. Now, let's get this party started! Enjoy the thread, everyone.",3,2023-12-01 11:02:27
+Just a friendly reminder, we do like to keep all our self-promotion in one handy place, so any separate posts will be kindly redirected here. Now, let's get this party started! Enjoy the thread, everyone.",4,2023-12-01 11:02:27
 Puppeteer: Development without getting blocked?,"I want to scrape this site: https://www.immobilienscout24.at/regional/tirol/wohnung-mieten
 the thing is my IP isn't blocked. When I visit the site everything loads really fast. Duo to having to reopen the puppeteer-browser after every few code changes they somehow detect that this browser is automated and make loading speeds really slow, if it even loads.
 How to prevent this?  
@@ -4953,13 +4953,13 @@ The parameters should be quite self-explanatory.
 But the API seems to have a upper limit regarding the ""maxResults"" parameters depending on the ""country"" parameter. While the GB call returns 150 results, the NL call only returns a subset of 38.
 It seems to be a Google API. IS there any known way to bypass this behaviour?
 At the moment I bypass this limitation by setting the maxresults to a low number, changing the latitude and longitude parameters by a slight margin and calling the API again and again eliminating double results afterwards. But I'm worried that I might miss results in dense areas like London or Amsterdam.
-Any ideas or suggestions?",6,2023-11-25 17:05:32
+Any ideas or suggestions?",5,2023-11-25 17:05:32
 Any tools for generating structured data from messy html?,"I'm looking for advice on tools to use in web scraping processes where its not possible to extract data from html consistently. I've run into this in two different situations,  either because I am scraping many different websites, so its not possible to write a distinct scraping process for each website, or because the pages being scraped are not consistently built (ex. free form text in forums, inconsistent html, etc...).
 Ideally any AI / ML options for throwing html into an AI model and receiving cleaned data back out.
 Has anybody else run into this situation before? What tools did you use?",2,2023-11-25 15:23:06
 Scraping through automating gui tasks?,"I tried to retrieve a webpage with python requests, but it failed. My google research suggests that the site in question uses protective measures to prevent bots from downloading data and that it also blocks selenium. 
 Now I manually surf to the pages and tabs on the pages in question, save them manually and then process the saved data. It is only a few pages so manually doable, but not ideal. Is there any way to automate this process? I came across PyAutoGui that looks like a solution, but at first sight it also looks like such script would be very fragile and prone to break. 
-Is this impression of fragility correct? Are there, preferably free, alternative tools available that are better suited for the task? Any ideas on robust ways on how to get the job done?",4,2023-11-25 03:31:20
+Is this impression of fragility correct? Are there, preferably free, alternative tools available that are better suited for the task? Any ideas on robust ways on how to get the job done?",3,2023-11-25 03:31:20
 School assignment,"Hi everyone,
 I am a master's student and I have a web scraping assignment. I need to collect a dataset of at least 5000 records using scraping - we have mainly use Chrome extension and Octoparse. Afterwards, I have to create at least five data visualisations based on the data using Tableau Public or KH Coder. 
 Can someone please help me out with this assignment? Any website is perfect, I just need some indications on how to complete the fields on the Chrome extension for a specific web page.
@@ -4997,7 +4997,7 @@ soup.get_text()
 , some websites have cookies, resulting in the retrieved text being filled with cookie policy information. Therefore, I need to remove the cookie tags from the HTML. How can I achieve this when the website is dynamic, meaning I only obtain the entire page with Playwright and not through requests?",1,2023-11-23 10:52:49
 Booking appointment,"Hi people, is anyone here who can book appointments whose dates are not available using web scrapping or something else.",1,2023-11-23 07:01:58
 Stock Analysis Scraper - This tool scrapes 0.8 million data points at 15-minute intervals and directly inserts them into Google Sheets.,"Hello everyone, I have created a script that allows you to scrape data from stock analysis websites and apply filters in your Google Sheet. I believe this can be helpful for you in learning Google Apps Script. I am sharing the URL to my GitHub repository:
-https://github.com/sahilsuman933/Stock-Analysis-Scraper",6,2023-11-22 13:59:30
+https://github.com/sahilsuman933/Stock-Analysis-Scraper",5,2023-11-22 13:59:30
 BeautifulSoup,BeautifulSoup has powerful tools for parsing data for utilization but often requires a good understanding of the document structure and the underlying parsing concepts. Would you say BS could be used sufficiently in an automation project that will be collecting data from 10 select websites?,1,2023-11-22 20:33:11
 New to webscraping - Meaning of robot.txt?,"Hi everyone, 
 I have a webscraping project where I wanted to webscrape Glassdoor Interview Questions.
@@ -5009,7 +5009,7 @@ I would appreciate if you could give me some pointers on what the appropiate beh
 Lightweight Web Scraping Framework Suitable for API,"I'm looking for a lightweight automation framework capable of handling simple tasks, such as loading pages and gathering information. The pages required JavaScript enabled.
 What is the most suitable framework for this purpose? Thanks for your time.",1,2023-11-22 14:36:51
 Scrape Online Stores that Host with Shopify,I want to scrape ecom stores that built on Shopify. Any good ways of doing it? Tools?,1,2023-11-22 08:15:12
-How can I get more than 1k posts from a subreddit?,"So I often rely on reddit to get trainingdata for LLMs, but due to api changes I can't. Can I somehow interact with reddit through the web and that way bypass this?",5,2023-11-21 22:50:43
+How can I get more than 1k posts from a subreddit?,"So I often rely on reddit to get trainingdata for LLMs, but due to api changes I can't. Can I somehow interact with reddit through the web and that way bypass this?",4,2023-11-21 22:50:43
 "Python error with praw ""this comment does not appear to be in the comment tree""","I wrote a python script that scraped a post I made  last night here: https://www.reddit.com/r/aoe2/comments/1804c5e/are_all_aoe2_players_old_post_you_age_and_career/
 I was able to extract all comments. Today (just now) I tried rerunning and see every comment states: ""this comment does not appear to be in the comment tree"". Any help would be great.
 I'm using praw, and it's literally one line of code:
@@ -5281,7 +5281,7 @@ I would like to collect these URLs and create a list with them, for research pur
 how crawling large data that spend less time,"Hello, it's me again. In my previous post, I didn't have a clear question, and now...
 So, I am crawling users from Twitter X, with information about name, location, joining time, followers, following, and also posts. I am using Selenium along with BeautifulSoup (without API). However, I've only managed to crawl a very small amount of data (only 1MB) while running for hours, taking a lot of time. Can someone guide me on how to crawl a larger amount of data (I am required to crawl at least 1GB of information)?
 Thanks for reading and have a good day!",0,2023-11-16 05:00:41
-How to Webscrape a website that poisons their data?,Are there any ways to scrape a website that makes their data hard to get or impossible to read?,7,2023-11-15 17:41:54
+How to Webscrape a website that poisons their data?,Are there any ways to scrape a website that makes their data hard to get or impossible to read?,5,2023-11-15 17:41:54
 LinkedIn post scraping,"I run a small design business, and with the insane amounts of applicants on contract roles nowadays I am struggling to get leads through LinkedIn job postings.
 I’m having more success now searching posts of mentions of contract design or freelance design. However…. This takes ages. 
 Anyone successfully figured out how to scrape LinkedIn posts?",1,2023-11-16 01:38:54
@@ -5303,7 +5303,7 @@ getting blocked (seems somewhat solved by proxying, although expensive)
 ​
 ​
 ​
-​",13,2023-11-14 20:29:56
+​",14,2023-11-14 20:29:56
 AI Assist chatbot for E-store Website,"FYP - An AI-assisted chatbot to enhance the customer service provided in an estore.  This AI assisted chatbot should be able to have conversations with the customers accurately, human hand off when complex queries are asked by the customers and this AI assisted chatbot should be able to read and Analyse the front end data of the Web application of the estore and provide recommendations and other details for the customers from the read and Analysed data on the Web application in real time.
 ​
 Guys, I need help to make this project. If you have ideas, please leave a comment",0,2023-11-15 06:37:45
@@ -5373,7 +5373,7 @@ Scraping Stake Casino,"So I am trying to make a betting bot on stake casino. I k
 The problem is that when I open the website it knows its a bot so it doesn´t let you log in so you can start betting. Does anyone know a way around it? I am new to web scraping any help would be appreciated.
 Thank you
 ​",1,2023-11-14 16:44:07
-What’s the most amount of data you’ve scraped?,And what was it?,8,2023-11-14 01:35:18
+What’s the most amount of data you’ve scraped?,And what was it?,7,2023-11-14 01:35:18
 Best way to scrap users emails posts followers from tik tok,Thanks 👍,0,2023-11-14 09:24:39
 Scrape ratings per hour,Hello! Is there any way to get a restaurant’s ratings by each hour of the day? Like to see what gives high ratings morning or night. I want to scrape some data to analyze the restaurant but I can’t figure out how to get that. Is there any way to get it?,2,2023-11-13 22:40:15
 Ways to scrape Amazon results,"Can anyone guide me or something on how to scrape search results from Amazon, I only need the top 20 results and their price.",1,2023-11-13 15:50:58
@@ -5386,7 +5386,7 @@ Has anyone else encountered this, and if so, is it possible to scrap beyond that
 UPDATE:
 I have also tried scrapping old.reddit afterwards, but reached the limit even earlier at 347 matching images (26 pages).
 https://old.reddit.com/r/AnimeGirls/?count=625&after=t3_13b32d0
-You can notice that here there is no [next] button on the bottom, only [prev]",3,2023-11-12 12:41:48
+You can notice that here there is no [next] button on the bottom, only [prev]",4,2023-11-12 12:41:48
 how to crawl 5Gb data from reddit,"Hello there!
 I have a question about crawling text data from subreddit, but how to up to 5Gb. 
 Help me, any idea? I am a beginner for crawling data from 
@@ -5398,7 +5398,7 @@ Thanks in advance!",2,2023-11-12 10:08:54
 Scraping LinkedIn legally as a smaller company,"Hi everyone, hope you're all having an amazing day. Recently I started working on my own SaaS company which helps salespeople prepare for their calls etc, I won't bother you with all the details.  
 Basically, my question is, is there any way I can allow my users to legally scrape the profiles of other LinkedIn users? Via maybe LinkedIn API, or allowing them to log in to their profile, etc. I'm fine with the 50 profiles a day limit as my users would only do maybe like max of 20 profiles a day.  
 Or is there maybe any other subreddit that could answer my question, where they maybe know more about all the laws, and legality when it comes to scraping data.  
-Thanks a lot of any information or help!",4,2023-11-11 22:44:20
+Thanks a lot of any information or help!",5,2023-11-11 22:44:20
 GPT-4 vision utilities to enable web browsing,"Wanted to share our work on Tarsier here, an open source utility library that enables LLMs like GPT-4 and GPT-4 Vision to browse the web. The library helps answer the following questions:
 
 How do you map LLM responses back into web elements?
@@ -5411,7 +5411,7 @@ Free GUI web scraping tool,"Hello,
 Is there any free (and hopefully open-source) web scraping GUI?
 Best regards.",3,2023-11-11 21:32:47
 Use Selenium in Google Colab Notebooks,"Just made this cool wrapper around Selenium (ChromeDriver) that allows you to easily, with just a few lines of code, run Selenium in a Google Colab Notebook!
-https://github.com/jpjacobpadilla/Google-Colab-Selenium",11,2023-11-11 06:38:48
+https://github.com/jpjacobpadilla/Google-Colab-Selenium",13,2023-11-11 06:38:48
 MQTT Web Scraping: Payload Challenge,"Hello,   
 I'm currently working on scraping data from the MQTT protocol. While I've successfully established a connection, I'm facing challenges when it comes to sending the payload to receive the data. Upon inspecting the sent requests in Firefox network tab, I noticed some unusual characters in the payload. Could someone guide me on how to obtain the correct payload so I can send the request accurately?",1,2023-11-11 13:02:23
 Need Advise from the community for an AI/WS Project,"Hello everyone!
@@ -5571,7 +5571,7 @@ class ImpersonateSpider(scrapy.Spider):
         # ja3_hash: 2fe1311860bc318fc7f9196556a2a6b9
         return {""ja3_hash"": response.json()[""ja3_hash""]}
 
-Thanks!",2,2023-11-09 16:01:47
+Thanks!",3,2023-11-09 16:01:47
 getting email address from list of websites,"I will have 1000s of website in a CSV file, I want a tool which can login to each website and then get the email addresses it has.
 Which tool is best for this use case?",1,2023-11-09 17:22:13
 How to scrape more than 10k results from elastic search,"I got a curl command from a website that allows me to use a get request to scrape a website data. I noticed it has elastic search in its backend, which allows me to perform pagination up to 10k results. How can I go beyond it? I found online that I could try sorting the results and use a search after parameter. But I can't make them work in a get request. Any hints? Thanks!",1,2023-11-08 21:05:54
@@ -5794,7 +5794,7 @@ With a little adaptation, I now have a scraper running on my Raspberry that coll
 Now I would like to query a news site more frequently, e.g. every minute. But then I get blocked. I would like to use proxies to get around this (be it free or commercial service providers). 
 The only question is: How do I implement the use of a proxy service provider, which has to provide itself with a new IP after every call or every minute?
 Or is there another tool with which I can check a specific news page for content at freely selectable intervals?
-Thanks",3,2023-11-02 13:06:15
+Thanks",4,2023-11-02 13:06:15
 Code/Project Review,"I know self-promotion is not accepted and I don't want to come off in a wrong way... How can I share a link to my docker project for review without offending the community? I'm not looking for a code review but rather a feature or functionality review and suggestions.
 Link to the project: Tor Rotator
 It's very simple at this point, suggestions are welcome.",3,2023-11-02 08:36:35
@@ -6008,7 +6008,7 @@ I am doing a project on prediction of the FTSE 100 daily closing price and I pla
 (I am asking as I spent a good few hours reading research papers on twitter and how it affects market sentiment without  realising the Twitter API was paid and I can't ""legally"" scrape it. So I'm trying to not waste my time with this one.)
 Thanks for any advice :)",2,2023-10-27 17:30:57
 How Do You Charge For Web Scraping Services?,"Hey everyone, I’ve created a web scraper for a friend that pulls from advert sites and sends alerts on Telegram when there’s a new post. Currently, I’m awaiting API keys from the advert site to enrich the Telegram alerts with the advert owner’s phone number. It’s hosted on EC2, and he’ll cover the hosting costs. He also wants ongoing maintenance like adding new advert links and compatibility with new advert sites.
-I’m unsure how to charge him for the initial setup and for future improvements since this is new territory for me. Can you share your pricing strategies or any advice on this? Thanks!",5,2023-10-27 10:27:56
+I’m unsure how to charge him for the initial setup and for future improvements since this is new territory for me. Can you share your pricing strategies or any advice on this? Thanks!",6,2023-10-27 10:27:56
 Selenium Python Help,"Hi, I'm new to coding and I am learning python. As my first real project I am creating a room reservation bot that can reserve practice/ study rooms at my university using python and Selenium. So far the code can log me and navigate to the time selection page but I have encountered an issue here.
 There are two drop down menus for the reservation start time and reservation end time with unique names, but the individual time slots are shown like this.  
 <select id=""EndPeriod"" name=""endPeriod"" class=""form-control  input-sm inline-block timeinput"" title=""End time"">
@@ -6098,7 +6098,7 @@ Can anyone direct me to any source?",2,2023-10-27 05:12:29
 TransferMarket Scraping,"Hey there. Im an economics student developing an econometrics model to estimate points obtained by futbol (soccer) clubs. My only ""coding"" experience is some work in stata and r.studio (close to nothing). Im trying to scrape from transfer market some data sets for clubs and their value for aug 1st 2022. If anyone has any clue it would be immensely appreciated. So far I've only done the following: 
 https://preview.redd.it/mr34ispiulwb1.png?width=2258&format=png&auto=webp&s=d26bf9b797fe0b99f16b576a4154cff2bf735028",1,2023-10-26 20:16:48
 Web Scraping or Web Crawling,"Hi, I'm fairly new to web scraping and want to understand the basics. Can someone explain the difference between web scraping and web crawling, and when  should I use each of these?",1,2023-10-26 17:17:25
-Where do you host your scraper bots?,Running bots locally on your own computer is often not a good enough option. Where do you host and what does your deployment workflow look like?,5,2023-10-26 09:17:35
+Where do you host your scraper bots?,Running bots locally on your own computer is often not a good enough option. Where do you host and what does your deployment workflow look like?,4,2023-10-26 09:17:35
 Cigna Contracted Providers,"I have a program that gets a list of unique zip codes based on a group's health insurance census. I work with small employers trying to give their employees access to a good health insurance network and am trying to help present them with Cigna’s Network penetration based on their group's geography. 
 I am trying to create a script that searches Cigna's provider directory for a list of specific zip codes and returns all of the provider information on contracted Primary Care Providers (PCPs). Into a Google sheet so all provider info is neatly parsed into a spreadsheet. 
 I’m generally new to Python and have messed around with Scrapy. However, I can’t seem to figure it out.
@@ -6114,7 +6114,7 @@ I’m not a developer but would like to know before hiring one to understand the
 Does styleseat.com and booksy.com have a public API that is useable for someone to scrape data and upload the data to their own website?",0,2023-10-26 11:23:08
 How frequent can I send http request to website without it being considered as DoS attack?,"I am scrapping data from couple of sites which are fairly popular locally (scrapping is legal on each of those). I need my app to work as fast as it can but can't send too many requests to a site because of potential denial of service/server overloading.
 I am thinking of putting explicit delay (maybe 2-5s) between each of my requests. How do I know if this is too much or too low. Is there rule of thumb?
-Any help would be very appreciated!",8,2023-10-25 12:41:59
+Any help would be very appreciated!",7,2023-10-25 12:41:59
 Scraping store details from a store locator,"Hi all! I want to extract a list of all stores from a store locator like this one 
 https://dita.com/a/store-locator/list
 Does anyone know how to? I don’t know python! Any tools that could help? Really appreciate the help",2,2023-10-25 17:31:34
@@ -6131,12 +6131,12 @@ Extract the stock tickers mentioned in each post
 Calculate the sentiment of each post (positive, negative, or neutral)
 Gather data for a large number of posts efficiently
 
-I am using Python for my project. Any tips or advice would be greatly appreciated.Thank you in advance!",4,2023-10-25 05:08:28
+I am using Python for my project. Any tips or advice would be greatly appreciated.Thank you in advance!",5,2023-10-25 05:08:28
 How to find list of all the companies in Germany which used Magento to build their website.,Which tool would be helpful?,1,2023-10-25 10:04:17
 Instagram/tiktok comment scraping legal?,"I’m working on a project for my uni , before getting into
 It , I would like to know if it’s legal to scrap data on Instagram pages/profiles , comments etc using a scraping bot ..then using a chatbot to comment/ reply to posts etc",1,2023-10-25 07:48:42
 Is VPN good for scraping on a small scale for general protection?,"VPN services are unsuitable for large-scale scraping since being blocked is easy. But I'm scraping government sites that are publicly available at a small scale, I'm not making 100K requests or anything like that. I would like to use a VPN just for peace of mind. My IP and requests have not been blocked before but I'd still like to use a VPN for peace of mind.
-Would this be a suitable situation to use a VPN service? Would the VPN service block me?",5,2023-10-24 21:57:58
+Would this be a suitable situation to use a VPN service? Would the VPN service block me?",6,2023-10-24 21:57:58
 scraping tiktok,"i'm building an ios app that needs to get the transcript and description of a tikotk video, given a link to the video. what should my approach be? is it possible to use a selenium script and not face any limit issues? 
 thanks",3,2023-10-24 20:26:56
 How to get a list of all public videos recently uploaded on YouTube?,"We can search for videos on YouTube by using search engines (not just Google), meaning that they must have a way to get a list of videos on YouTube. How do they do that? I looked at https://youtube.com/robots.txt, and there are some sitemaps listed. However, I do not see any sitemap that lists all videos on YouTube.
@@ -6434,7 +6434,7 @@ Scrap Entire r/reddit?,"Is there a way for me to scrap the entire a specific red
 Reason: I prefer to look for keywords / posts to navigate data using my own software.
 P.S: I have no programming knowledge.
 Thanks for the help!
-https://preview.redd.it/bxu6wi1a9wvb1.png?width=1005&format=png&auto=webp&s=8113f41245ac662a20ec46613ab556a8bc890842",7,2023-10-23 06:12:32
+https://preview.redd.it/bxu6wi1a9wvb1.png?width=1005&format=png&auto=webp&s=8113f41245ac662a20ec46613ab556a8bc890842",9,2023-10-23 06:12:32
 Legal risk from scraping?,"I just learned about robot.txts and that it may be against website policy to scrape it, if we do it anyway can we get punished legally?
 I have been scraping the same page at weeks interval for a year and they just reached out to me with threats",3,2023-10-23 08:44:05
 Python web scraping video?!,Am looking for a youtube video and i understand there are loads but thats the problem. I want to scrap a website which has products title and link. You click on the link and it takes you to the products main page where i want to scrap product info and description and part number...so really need a video explaining how to build a scraper that will go to each links and scrap the necessary information..is there a specific youtube video which explains this?!,2,2023-10-22 20:15:57
@@ -6489,8 +6489,8 @@ try:
             print(f""Error while scraping {url}: {str(e)}"")
 
 Any ideas?",3,2023-10-21 04:56:47
-Freelance roles,"Hi, are there any other platforms other than Upwork to find webscraping gigs? I've applied for several roles and still haven't received a response.",7,2023-10-20 10:40:29
-Scraping https://www.msn.com/en-us/feed,"When I scrape  https://www.msn.com/en-us/feed I get html that includes the following:  Your current User-Agent string appears to be from an automated process, if this is incorrect, please click this link:<a href=""http://www.microsoft.com/en/us/default.aspx?redir=true"". How do I get past this? Should I try to make the automated process click the link or would that not work? FYI I'm just a humanities undergrad trying to do a little project so it wouldn't be overloading Microsoft's servers or anything.",4,2023-10-20 08:29:50
+Freelance roles,"Hi, are there any other platforms other than Upwork to find webscraping gigs? I've applied for several roles and still haven't received a response.",8,2023-10-20 10:40:29
+Scraping https://www.msn.com/en-us/feed,"When I scrape  https://www.msn.com/en-us/feed I get html that includes the following:  Your current User-Agent string appears to be from an automated process, if this is incorrect, please click this link:<a href=""http://www.microsoft.com/en/us/default.aspx?redir=true"". How do I get past this? Should I try to make the automated process click the link or would that not work? FYI I'm just a humanities undergrad trying to do a little project so it wouldn't be overloading Microsoft's servers or anything.",5,2023-10-20 08:29:50
 Dynamic webscraping,"Greetings y'all, I need some help, I'm dynamically scraping a website you see, not the entire site though, just a <ul> my code is set to check the ul every minute and save the length of the ul, if the length changes it takes the latest li that is added, all this is just done in pure python, the scraper is obviously selenium based, my question is is the a way to do the whole process with Selenium, the way I'm currently doing it does always work",0,2023-10-20 10:04:00
 Simple methods to scrape product images from search results/links on ordinary e-commerce sites?,"Hi, I was wondering if there are simple or tried-and-tested methods to scrape product images from ordinary (not mainstream) e-commerce sites?
 For background, I'm looking into e-com sites where:
@@ -6509,7 +6509,7 @@ I'm creating a script to download mangas scans and store them locally, so I can 
 Thanks y'all !  
 Edit : after testing with ProtonVPN, it doesnt work either.",3,2023-10-19 09:19:07
 Best way to web scrape Amazon reviews and ratings (stars)? Issues with multiple pages,I’m using the scrapy package in python to mine amazons reviews but I’m having an issue where it will not scrape multiple pages even if my urls are correct. Has anyone done this before who could help me decided what package to use and any examples please? I’m so lost thank you!,1,2023-10-19 15:15:42
-Are there any websites which are unpossible to scrape?,Are there any websites which are unpossible to scrape?,5,2023-10-19 07:27:51
+Are there any websites which are unpossible to scrape?,Are there any websites which are unpossible to scrape?,3,2023-10-19 07:27:51
 Need Help Improving Web Scraping Speed & Process,"Objective:
 Scrape a specific product's webpage frequently (1-2 times per second) to detect new adverts. Once detected, notify my client via Telegram.
 Current Setup: 
@@ -6592,7 +6592,7 @@ https://9038876.onlineleasing.realpage.com/",1,2023-10-19 00:15:41
 How to get API for getting sms?,How to get api for getting sms messages on this site https://www.phoneblur.com,1,2023-10-18 18:49:27
 Web-Scraping a subreddit up to the 1000 limit? After PRAW changes.,"Hi! I'd like to scrape a subreddit. Due to recent API changes, I'm not sure how it's done now. I'm okay with getting only the latest 1000 posts as the limit is.
  
-What's the current method? Any code on github or something similar? Thanks!",2,2023-10-18 11:57:29
+What's the current method? Any code on github or something similar? Thanks!",3,2023-10-18 11:57:29
 Unable to scrape target with BS4 and Selenium. Is it me or a curse?,"I scrape a site and now I am doomed. (Hopefully, because I'm a newbie). I want to scrape the data-score of the span in the highlighted div. (In this case ""5"")
 ​
 How to target the data-score? (Which is 5)
@@ -6685,7 +6685,7 @@ Web Crawling at Scale: Navigating Billions of URLs with Efficiency,"Hey r/webscr
 Part 1 - Architecture overview: https://medium.com/p/7f4281f9f539
 Part 2 - Code walkthrough: https://medium.com/p/7a9b9a1e3829
 The full source code is available on GitHub: https://github.com/tonywangcn/distributed-web-crawler
-This was a super fun project where I learned a ton about building large-scale distributed systems. Let me know if you have any feedback on the code or tutorial! I'm hoping this can be a useful resource for anyone wanting to learn more about distributed web scraping.",38,2023-10-14 12:27:41
+This was a super fun project where I learned a ton about building large-scale distributed systems. Let me know if you have any feedback on the code or tutorial! I'm hoping this can be a useful resource for anyone wanting to learn more about distributed web scraping.",39,2023-10-14 12:27:41
 Need help to determine how to host scrapers online.,"Hi All,
 I am a coding/dev noob and have 3 .exe web scrapers that take about 5 hours to run and a GitHub .py script that I run on a Heroku bot. I'm looking to see if there is a budget-friendly option to host all 4 to run daily on the cloud. Currently running the .exe scrapers on my local machine. I was suggested to run a Windows VPS.
 Requirements: 
@@ -6706,13 +6706,13 @@ But then how do you know if theres a type of data companies are interested as an
 Feel like there's a gap especially if you dont have contacts in industry.
 Sometimes freelancer works i guess here and there..
 But I feel like there should be a website a small business come search for data they are interested and see if theres someone yielded that data and make an offer..
-(apify exists but it lets you use some scraper which still requires somewhat a tehcnical knowledge normal non-tech people are directly interested in data in format they want)",10,2023-10-13 14:50:19
+(apify exists but it lets you use some scraper which still requires somewhat a tehcnical knowledge normal non-tech people are directly interested in data in format they want)",9,2023-10-13 14:50:19
 The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler. Part 1,"Learn to build a scalable, Google-inspired distributed web crawler from scratch. This in-depth tutorial covers designing a resilient crawler architecture, leveraging technologies like Kubernetes, Golang, NodeJS, Redis, MongoDB, Prometheus, and more. Gain hands-on experience constructing an intricate system capable of gathering web data at scale. This series walks through setting up a robust dev environment, establishing a modular project structure, and explaining the rationale behind each component. Upcoming posts will dive into the technical implementation of core elements like worker nodes, message queues, data storage, logging, and monitoring. Whether you're a developer looking to expand your skills or a business seeking a competitive edge through web data, don't miss out on this valuable resource. Follow along with the series on GitHub (https://github.com/tonywangcn/distributed-web-crawler).
 Read the first part here: https://medium.com/@tonywangcn/the-architecture-of-a-web-crawler-building-a-google-inspired-distributed-web-crawler-part-1-7f4281f9f539
 Welcome to check out other writings about building crawlers:
 
 How to efficiently scrape millions of Google Businesses on a large scale using a distributed crawler https://medium.com/@tonywangcn/how-to-efficiently-scrape-millions-of-google-businesses-on-a-large-scale-using-a-distributed-35b9140030eb 
-How to efficiently scrape millions of Google Businesses on a large scale using a distributed crawler https://medium.com/@tonywangcn/a-step-by-step-guide-to-building-a-scalable-distributed-crawler-for-scraping-millions-of-top-tiktok-802a7d754e7e",13,2023-10-13 09:51:11
+How to efficiently scrape millions of Google Businesses on a large scale using a distributed crawler https://medium.com/@tonywangcn/a-step-by-step-guide-to-building-a-scalable-distributed-crawler-for-scraping-millions-of-top-tiktok-802a7d754e7e",11,2023-10-13 09:51:11
 App for one stop shop,"Hello I have currently been looking into web scraping for various reasons. I am having a hard time finding a service that does well rounded tools.
 Very simplified idea.
 A for browser, phone android or Apple or application for windows and Mac.
@@ -6767,7 +6767,7 @@ THANKS!
 Web Scraping into CSV file,"I am currently trying to write a web scraping code using beautiful soup that gathers stats from rotowire.com for nhl players. This includes Goals, assists, points, +/-, PIM, and SOG. Also for goalies, GAA, SV%, GP, and wins etc. ( There is a full chart on their website already that I basically want all of). I can’t seem to figure it out, can someone give me a hand? I want to store all of the data in a chart as a csv file so that I can put it into a sql database and be able to navigate through the data myself with specific queries. This is just a small starter project that will help me with fantasy hockey:)",1,2023-10-11 20:55:05
 Target website banned my entire pool of IPs?,"Hi,
 I was having a lot of succeess against this taget website. I believe my IP rotated about 300 times. So I used roughly 300 different IP addresses. After a few hours however, it seems the entire pool of IP addresses has been banned. I ran some tests to check it's the IP pool and not user agent or something like that and it's definitely the pool.
-My question is, how can they ban my entire pool of IPs when I haven't used many? The IP pool has 50k IPs (datacenter) I only used 300. This target website is very lowkey, not targeted by webscrapers or whatever. So it's unlikely these IPs were banned prior to me using them. They did something yesterday and banned my entire pool",8,2023-10-11 09:32:45
+My question is, how can they ban my entire pool of IPs when I haven't used many? The IP pool has 50k IPs (datacenter) I only used 300. This target website is very lowkey, not targeted by webscrapers or whatever. So it's unlikely these IPs were banned prior to me using them. They did something yesterday and banned my entire pool",6,2023-10-11 09:32:45
 Easiest Method to Filter Specific Issues in Google Reviews for Localised Small Businesses,"Hello everyone,
 I am embarking on a project that involves identifying certain specific issues customers might be facing on the websites of small businesses (e.g. customer service is bad), in a specific country, through their Google reviews. I am in search of an effective way to sift through the reviews to pinpoint these problems.
 Is there any tool or method known to you that could help filter or search through Google reviews to uncover specific complaints or issues regarding a website, particularly focusing on small businesses in a specific country? A solution capable of handling a substantial amount of reviews with some level of automation would be ideal.
@@ -6870,7 +6870,7 @@ Sraping tiktok videos,"So I want to create an application that scrapes the trans
 Pay per GB proxys,"Hello,
 I’m new to data scraping, but I’m looking to get more serious about it. I have therefore looked at different residential proxy ip services, and all of their plans are “$/GB”. 
 My question is: what do those GB signify? One service wants $10 per GB, and I’m scared of racking up a huge bill by visiting a website many times. Does it mean the data required to load a website? If that is the case, how could it ever be profitable to use such a service? 
-I’m thankful for any clarification you can bring me!",8,2023-10-03 21:27:54
+I’m thankful for any clarification you can bring me!",9,2023-10-03 21:27:54
 Failed to download a file with headless Selenium,"Dear webscraping gurus,
 I'm currently trying to download a file from a website as part of my data pipeline. Apparently, the server I'm using couldn't operate while the code trying to open windows everytime it being run, ""why?"" you may ask, not a clue. On the flip side, if I went headless, the data won't download anything. You'd ask ""Why not using requests?"", I tried, but the process requires me  to click several buttons, input login information, and closing popup boxes. Does anyone know how to handle this kind of problem?",3,2023-10-03 17:19:45
 Help a noob out 🥹,"So I have to scrape a lot of data for work. 
@@ -6898,7 +6898,7 @@ Just a friendly reminder, we do like to keep all our self-promotion in one handy
 Suggest Me any Course(Udemy) or any Tutorial (YouTube) to learn Web scraping using Python,"I am good at Python
 No experience in Html, css, js
 I want to learn Web Scraping at a professional level
-Suggest me any course / Roadmap or any advice !!!",3,2023-10-01 06:54:58
+Suggest me any course / Roadmap or any advice !!!",2,2023-10-01 06:54:58
 Validate what a business does,"Hi there
 I have 1200 companies I suspect are interesting to my sales team.
 I want to use sales navigator to find contacts at these companies 
@@ -6921,7 +6921,7 @@ So I figured, send requests in batches, with slight delays between each request,
 This is when I realized what's was happening with this website.  If I sent a batch of 10 requests (which took 25 seconds for all responses to come through), and then went to their website and tried to load the page manually, the page would take 25 seconds to load.
 This website is handling each request sequentially, and each request takes, at minimum, 1.5 seconds.  On average it's closer to 2.5.
 Their backend must also be awful because 1 request takes 3 seconds, 5 requests takes 6 seconds, but 10 requests takes 25 seconds.
-I feel like I'm going crazy.  This performance is absolutely horrible right?",4,2023-09-30 13:08:05
+I feel like I'm going crazy.  This performance is absolutely horrible right?",5,2023-09-30 13:08:05
 Ideas on Gathering Team URLs from Unique Webpages,"Hey everyone,
 So I currently have a project where I gathered a list of 40k unique homepage URLs for an industry (doctor offices). I have been trying to work on getting the team pages of these businesses (I have already scrapped the homepage) using python. 
 The issue is that I cannot get a consistent use case for extracting the team pages URLs, since the urls extension can look anything from /team to /about/team, and even /meet-our-staff etc added onto the end of the base homepage url .
@@ -6964,7 +6964,7 @@ Scrape ~50-100 profiles, using a search, and using selenium to simply click the 
 Rotate to a different proxy+account and repeat.
 
 So far while testing and developing I manually created a dummy account, scraped a couple profiles via selenium, and got it banned perhaps due to suspicious behavior with login attempts.
-Any feedback and recommendations are welcome. I noticed a rule said avoid references to paid services and tooling. If this is kosher I'd personally be open to discussion of such tools although I'd prefer a free from scratch solution.",5,2023-09-28 06:17:27
+Any feedback and recommendations are welcome. I noticed a rule said avoid references to paid services and tooling. If this is kosher I'd personally be open to discussion of such tools although I'd prefer a free from scratch solution.",4,2023-09-28 06:17:27
 strange results from scraping fandom wiki,"i am trying to implement a scraper in python via requests and bs4 that can handle making local copies of fandom wikis among other wiki type sites for offline use and my own fun. but i noticed in my testing and experimentation that even browsers will not save a fandom wiki page correctly. there is something broken with the css or other and i am uncertain about the cause. even when all the css and scripts are apparently present, the page still displays incorrectly. everything is the wrong size and incorrect location despite the order being correct.
 ​
 does anybody have insight or suggestions?
@@ -7015,7 +7015,7 @@ Any advice for a newbie starting out? Should I build this myself or hire it out?
 What libraries are good for websraping in python that can help to get around blocked sites?,"There are a few libraries such as BS, Scrapy, Selenium, etc. in python that allow for web-scraping. But which one works well to work around websites in which there's a wall and doesn't allow for web-scraping.
 In the past I've experimented with Chromium in Python to get around the wall, basically it opens up a chrome browser and literally directs it to that page and then pulls the HTML lol... does't seem like the best option, wondering if there's another alternative?",2,2023-09-24 22:42:56
 What are the ways to bypass Cloudfare using python?,"Can anybody tell me what are the ways to bypass Cloudfare using python?
-It should not be a paid service though.",1,2023-09-23 21:30:19
+It should not be a paid service though.",2,2023-09-23 21:30:19
 How to scrape more than one APIs when you do not know their URL ???,"""https://www.cyberscope.io/audits""
 I am scraping this website. I just checked it's network tab and there are some APIs where I can get data from. 
 I want to scrape audit reports But the problem here is that all these audit reports have their own API. 
@@ -7031,7 +7031,7 @@ TLDR: So, in a nutshell, can I use a publicly displayed API & API-key? If it's a
 ​",2,2023-09-23 15:28:48
 Would an easier way to scrape 100s of websites be useful to you?,"In the process of building AI agents, we've found that what we built could eventually be good at dynamically scraping data across a variety of websites (10s to 100s of different sites at a time)
 Our understanding is that existing web scraping tools are bad at this because you need to write custom scraping configurations per site. Not only that, but when a site changes styling, it might completely break your automation. With agents however, you can provide a high level natural language overview of the data you'd like from a website or class of websites, and the agent system will deal with the details of traversing a page and fetching data automatically.
-We’re curious how useful this might be for people. If you’ve experienced issues that this might solve or have already explored the space, I'd love to hear from you!",9,2023-09-22 20:33:06
+We’re curious how useful this might be for people. If you’ve experienced issues that this might solve or have already explored the space, I'd love to hear from you!",8,2023-09-22 20:33:06
 Is not possible anymore to scrap social media ?,"Hi there.
 A few years ago I used a tool to scrap emails from facebook groups and pages and it worked really well. 
 Now I logged back in the account and all the services have been discontinued. 
@@ -7039,7 +7039,7 @@ Reading around it looks like is now impossible to scrap data from social media.
 I would need to scrap emails from
 Facebook Groups, Facebook Pages, Reddit Groups, Instagram tags, Tiktok tags. 
 For what I've gathered, this isn't possible anymore right ?
-Thanks",5,2023-09-22 18:06:56
+Thanks",4,2023-09-22 18:06:56
 Class project,"Hi guys. I am taking a class for university, the topic is (something in the field of movies, music, video games) and I am planning on making a site that is a wiki of all of these media forms that have corgis in them. Thinking any appearance of them. A corgi shows up in a single episode I would like my site to show that. I only know Javascript and c++. I assume webscrapping is the technique I need and Puppeteer is the tool I've come across that uses JS (node) am I on the right path or will learning puppeteer not help me accomplish my goals?",2,2023-09-22 19:40:19
 Webscraper.io - Each selector populates its own row,"This is driving me nuts, and I must be doing something wrong. I can't seem to set this up so I can get my data to populate properly to get each row to match. Each of my text selectors pulls the right info of Parent Name, Parent Email, Parent2 Name, Parent2 Email and Student. It puts the info in the correct column of the spreadsheet when pulled but it pulls all Parent Name, then goes to all Parent Email, etc.. 
 Any ideas what I'm doing wrong?
@@ -7112,7 +7112,7 @@ We currently support Zillow, Realtor.com & Redfin. As always, this is requests-b
 You can aggregate the data from all the sites, some sites, or individual sites, you choose.
 ​
 Not technical? Use this at https://tryhomeharvest.com/.
-Feel free to give feedback in the comments, we would love to hear your suggestions.",6,2023-09-19 17:56:19
+Feel free to give feedback in the comments, we would love to hear your suggestions.",5,2023-09-19 17:56:19
 Advice on Automating My eBay Business Using ActivePieces and Web scraping.,"Hello fellow Redditors,
 I'm reaching out for guidance on how to harness the power of automation tools like ActivePieces (similar to Zapier) and web bots for scraping to optimize my eBay business. I'm brand new to computer automation and eager to explore its potential.
 About My Business:
@@ -7157,7 +7157,7 @@ Can anyone help me see the JSON response for this webpage?
 The lego page I am trying to scrape",1,2023-09-19 08:21:45
 A reliable linkedin email extrator tool/extension?,"Tried Kendo free (35% success rate) and SignalHire paid (50% success rate). Is there a reliable tool that isn't expensive? (40$ to 70$). Most emails I was getting from kendo/signalhire would either bounce back or even look fake (different name in the email or just a guessed email ex adam phillips [adam.phillips@gmail.com](mailto:adam.phillips@gmail.com))
 Thanks",2,2023-09-18 16:49:29
-How would I go about scraping this website?,The main details needed are only visible when clicked,2,2023-09-18 07:04:52
+How would I go about scraping this website?,The main details needed are only visible when clicked,3,2023-09-18 07:04:52
 Watching variables in an online service's javascript file,"Apologies if this is technically not considered web scraping.
 I'm wondering if it'd be possible to interact with the Javascript files of an online staking service like Stake.com to extract the roulette's winning numbers each round.
 I don't want to know how to do it specifically, but actually if it'd be possible at all since I don't quite understand how it works. When there's a new winning number, how is that streamed to the browser client? For example, would it be possible to watch variable values if I found which ones to track in the obfuscated javascript code?",0,2023-09-17 17:34:49
@@ -7462,7 +7462,7 @@ Scraper Race! Puppeteer JS vs Playwright Python vs Selenium Python,"Hey Everyone
 Far from a comprehensive benchmark, this race is 100% free from advanced configurations, multi-threading or anything complicated. It just opens Wallapop (a second hand marketplace in Spain) and times how long it takes to extract the first 2000 results of a search.
 Another thing to note is that I ran this on Google Colab, that throttles resources unpredictably, so take this as it is, just a simple-fun race with lots of questionable decisions.
 If you like this simple format, have any ideas on how to improve a race like this or have a strong urge to prove Ward Cunningham wright, let me know in the comments!
-(Also, if you think your tool of choice isn't being represented fairly, feel free show how simple code improvements yield more speed with the same resources :)",6,2023-09-11 09:22:29
+(Also, if you think your tool of choice isn't being represented fairly, feel free show how simple code improvements yield more speed with the same resources :)",7,2023-09-11 09:22:29
 "Can't connect to this website, 403 enable JavaScript and cookies to continue","I have been playing around with the headers but nothing worked. Would appreciate any help
 *this code is from postman for the full page
 import requests
@@ -7555,7 +7555,7 @@ Just a bit about my background, I still have not yet started to learn web scrapi
 Thank you all in advance!",1,2023-09-08 04:51:20
 Why are some sites harder to scrape than others (in terms of bypassing bot detection)?,"I am quite new to web scraping. I've found some sites I have no issue being detected, while other sites I am detected as a bot upon my first html request. What accounts for the variability in bot detection per site? Does browser also have a role to play in this (e.g. when using Selenium's webdriver)?",1,2023-09-08 01:19:51
 Looking to exchange my 1 billion Tiktok user profile data with the same amount of Instagram profile data.,"I scraped 1 billion Tiktok user profiles along with their following/follower count, bio, like count etc.
-I'm looking for someone with 1 billion Instagram user profile data to exchange.",5,2023-07-24 22:22:45
+I'm looking for someone with 1 billion Instagram user profile data to exchange.",6,2023-07-24 22:22:45
 Scraping LinkedIn for jobs,"Just finished this, maybe will be useful for some: https://github.com/cwwmbm/linkedinscraper.
 
 What is it? Python script scraping LinkedIn for jobs and stores them into database. config.json is where all the setup and parameters are being set. There's also a web interface to launch on local machine so you can browse them. Screenshot: https://github.com/cwwmbm/linkedinscraper/blob/main/screenshot/screenshot.png
@@ -7584,4 +7584,4 @@ LinkedIn is a product that's written by people who don't use it. So it's underst
 LinkedIn is a stupid name
 It's also a stupid concept
 I hate it
-Fuck LinkedIn.",28,2023-06-08 05:01:42
+Fuck LinkedIn.",27,2023-06-08 05:01:42
